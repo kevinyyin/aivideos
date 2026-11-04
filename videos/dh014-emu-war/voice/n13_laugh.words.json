@@ -1,0 +1,80 @@
+{
+ "text": "Back home, people are laughing, and the papers call it the Emu War.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "Back",
+   0.0,
+   0.32
+  ],
+  [
+   "home,",
+   0.48,
+   0.88
+  ],
+  [
+   "people",
+   1.04,
+   1.2
+  ],
+  [
+   "are",
+   1.28,
+   1.36
+  ],
+  [
+   "laughing,",
+   1.52,
+   2.32
+  ],
+  [
+   "and",
+   2.36,
+   2.4
+  ],
+  [
+   "the",
+   2.48,
+   2.56
+  ],
+  [
+   "papers",
+   2.64,
+   2.96
+  ],
+  [
+   "call",
+   3.04,
+   3.2
+  ],
+  [
+   "it",
+   3.28,
+   3.36
+  ],
+  [
+   "the",
+   3.4,
+   3.44
+  ],
+  [
+   "Emu",
+   3.6,
+   3.92
+  ],
+  [
+   "War.",
+   4.0,
+   4.64
+  ]
+ ],
+ "hash": "70e6fd01e93a"
+}

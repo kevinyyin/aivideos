@@ -1,0 +1,15 @@
+{
+  "tone": "explainer",
+  "look": {
+    "exposure": 1.0,
+    "fill": 0
+  },
+  "fps": 30,
+  "duration": 64.9,
+  "subs": [],
+  "dips": [],
+  "debugView": {
+    "center": [0, 0, 10],
+    "height": 60
+  }
+}

@@ -1,0 +1,40 @@
+{
+ "text": "He waits until they're close.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "He",
+   0.0,
+   0.16
+  ],
+  [
+   "waits",
+   0.24,
+   0.48
+  ],
+  [
+   "until",
+   0.56,
+   0.8
+  ],
+  [
+   "they're",
+   0.84,
+   1.04
+  ],
+  [
+   "close.",
+   1.32,
+   1.92
+  ]
+ ],
+ "hash": "f4bb2ed067b1"
+}

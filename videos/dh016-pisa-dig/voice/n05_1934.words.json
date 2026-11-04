@@ -1,0 +1,75 @@
+{
+ "text": "In 1934, Mussolini's engineers pump in cement. It lurches the wrong way.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "In",
+   0.0,
+   0.16
+  ],
+  [
+   "1934,",
+   0.24,
+   1.6
+  ],
+  [
+   "Mussolini's",
+   1.68,
+   2.32
+  ],
+  [
+   "engineers",
+   2.48,
+   2.88
+  ],
+  [
+   "pump",
+   2.96,
+   3.2
+  ],
+  [
+   "in",
+   3.28,
+   3.36
+  ],
+  [
+   "cement.",
+   3.44,
+   4.16
+  ],
+  [
+   "It",
+   4.4,
+   4.48
+  ],
+  [
+   "lurches",
+   4.64,
+   5.04
+  ],
+  [
+   "the",
+   5.08,
+   5.12
+  ],
+  [
+   "wrong",
+   5.2,
+   5.44
+  ],
+  [
+   "way.",
+   5.52,
+   6.16
+  ]
+ ],
+ "hash": "8c14a41e8a19"
+}

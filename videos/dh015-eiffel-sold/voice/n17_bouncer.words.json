@@ -1,0 +1,100 @@
+{
+ "text": "It's like a bouncer asking twenty bucks to skip the line. You never doubt he works there.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "It's",
+   0.0,
+   0.24
+  ],
+  [
+   "like",
+   0.32,
+   0.4
+  ],
+  [
+   "a",
+   0.44,
+   0.48
+  ],
+  [
+   "bouncer",
+   0.56,
+   1.04
+  ],
+  [
+   "asking",
+   1.24,
+   1.44
+  ],
+  [
+   "twenty",
+   1.52,
+   1.76
+  ],
+  [
+   "bucks",
+   1.84,
+   2.08
+  ],
+  [
+   "to",
+   2.16,
+   2.2
+  ],
+  [
+   "skip",
+   2.24,
+   2.48
+  ],
+  [
+   "the",
+   2.52,
+   2.56
+  ],
+  [
+   "line.",
+   2.64,
+   3.2
+  ],
+  [
+   "You",
+   3.44,
+   3.52
+  ],
+  [
+   "never",
+   3.68,
+   4.0
+  ],
+  [
+   "doubt",
+   4.08,
+   4.28
+  ],
+  [
+   "he",
+   4.32,
+   4.4
+  ],
+  [
+   "works",
+   4.48,
+   4.72
+  ],
+  [
+   "there.",
+   4.84,
+   5.28
+  ]
+ ],
+ "hash": "7944a1a19c61"
+}

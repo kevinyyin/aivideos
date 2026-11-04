@@ -1,0 +1,60 @@
+{
+ "text": "Yet it still has a hundred and nineteen ridges.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "Yet",
+   0.0,
+   0.24
+  ],
+  [
+   "it",
+   0.32,
+   0.4
+  ],
+  [
+   "still",
+   0.48,
+   0.8
+  ],
+  [
+   "has",
+   0.88,
+   1.04
+  ],
+  [
+   "a",
+   1.12,
+   1.2
+  ],
+  [
+   "hundred",
+   1.28,
+   1.52
+  ],
+  [
+   "and",
+   1.6,
+   1.76
+  ],
+  [
+   "nineteen",
+   1.84,
+   2.24
+  ],
+  [
+   "ridges.",
+   2.4,
+   3.2
+  ]
+ ],
+ "hash": "f9209ebbb942"
+}

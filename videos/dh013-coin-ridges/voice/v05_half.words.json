@@ -1,0 +1,80 @@
+{
+ "text": "By 1695, a bag of silver money weighed barely half what it should.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "By",
+   0.0,
+   0.16
+  ],
+  [
+   "1695,",
+   0.24,
+   1.76
+  ],
+  [
+   "a",
+   1.84,
+   1.92
+  ],
+  [
+   "bag",
+   2.0,
+   2.16
+  ],
+  [
+   "of",
+   2.24,
+   2.4
+  ],
+  [
+   "silver",
+   2.48,
+   2.72
+  ],
+  [
+   "money",
+   2.88,
+   3.12
+  ],
+  [
+   "weighed",
+   3.2,
+   3.52
+  ],
+  [
+   "barely",
+   3.64,
+   3.84
+  ],
+  [
+   "half",
+   4.08,
+   4.32
+  ],
+  [
+   "what",
+   4.4,
+   4.48
+  ],
+  [
+   "it",
+   4.56,
+   4.64
+  ],
+  [
+   "should.",
+   4.8,
+   5.28
+  ]
+ ],
+ "hash": "5fb69d8ad6d9"
+}

@@ -1,0 +1,90 @@
+{
+ "text": "It's the seal on a new jar. You can't sneak a scoop without breaking it.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "It's",
+   0.0,
+   0.24
+  ],
+  [
+   "the",
+   0.28,
+   0.32
+  ],
+  [
+   "seal",
+   0.48,
+   0.8
+  ],
+  [
+   "on",
+   0.88,
+   0.96
+  ],
+  [
+   "a",
+   1.04,
+   1.08
+  ],
+  [
+   "new",
+   1.12,
+   1.28
+  ],
+  [
+   "jar.",
+   1.36,
+   1.96
+  ],
+  [
+   "You",
+   2.16,
+   2.32
+  ],
+  [
+   "can't",
+   2.4,
+   2.56
+  ],
+  [
+   "sneak",
+   2.72,
+   2.88
+  ],
+  [
+   "a",
+   2.96,
+   3.04
+  ],
+  [
+   "scoop",
+   3.12,
+   3.44
+  ],
+  [
+   "without",
+   3.6,
+   3.76
+  ],
+  [
+   "breaking",
+   3.84,
+   4.16
+  ],
+  [
+   "it.",
+   4.24,
+   4.64
+  ]
+ ],
+ "hash": "33d262cf1739"
+}

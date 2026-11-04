@@ -1,0 +1,85 @@
+{
+ "text": "He picked Andr\u00e9 Poisson, new in town and desperate to be a big shot.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "He",
+   0.0,
+   0.16
+  ],
+  [
+   "picked",
+   0.28,
+   0.4
+  ],
+  [
+   "Andr\u00e9",
+   0.48,
+   0.88
+  ],
+  [
+   "Poisson,",
+   0.96,
+   1.84
+  ],
+  [
+   "new",
+   1.92,
+   2.08
+  ],
+  [
+   "in",
+   2.16,
+   2.24
+  ],
+  [
+   "town",
+   2.32,
+   2.64
+  ],
+  [
+   "and",
+   2.72,
+   2.96
+  ],
+  [
+   "desperate",
+   3.04,
+   3.44
+  ],
+  [
+   "to",
+   3.52,
+   3.56
+  ],
+  [
+   "be",
+   3.6,
+   3.68
+  ],
+  [
+   "a",
+   3.76,
+   3.8
+  ],
+  [
+   "big",
+   3.84,
+   4.0
+  ],
+  [
+   "shot.",
+   4.08,
+   4.64
+  ]
+ ],
+ "hash": "db1bf240d016"
+}

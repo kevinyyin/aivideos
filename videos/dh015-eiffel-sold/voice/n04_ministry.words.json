@@ -1,0 +1,75 @@
+{
+ "text": "He posed as an official from the Ministry of Posts and Telegraphs.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "He",
+   0.0,
+   0.24
+  ],
+  [
+   "posed",
+   0.4,
+   0.56
+  ],
+  [
+   "as",
+   0.64,
+   0.72
+  ],
+  [
+   "an",
+   0.76,
+   0.8
+  ],
+  [
+   "official",
+   1.08,
+   1.36
+  ],
+  [
+   "from",
+   1.44,
+   1.52
+  ],
+  [
+   "the",
+   1.56,
+   1.6
+  ],
+  [
+   "Ministry",
+   1.76,
+   2.08
+  ],
+  [
+   "of",
+   2.16,
+   2.24
+  ],
+  [
+   "Posts",
+   2.32,
+   2.72
+  ],
+  [
+   "and",
+   2.8,
+   2.88
+  ],
+  [
+   "Telegraphs.",
+   2.96,
+   3.92
+  ]
+ ],
+ "hash": "b3f961d7bbf2"
+}

@@ -1,0 +1,75 @@
+{
+ "text": "In Parliament, one member mockingly asks if the soldiers will get medals.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "In",
+   0.0,
+   0.16
+  ],
+  [
+   "Parliament,",
+   0.24,
+   1.04
+  ],
+  [
+   "one",
+   1.2,
+   1.36
+  ],
+  [
+   "member",
+   1.56,
+   1.76
+  ],
+  [
+   "mockingly",
+   1.84,
+   2.4
+  ],
+  [
+   "asks",
+   2.48,
+   2.88
+  ],
+  [
+   "if",
+   2.96,
+   3.04
+  ],
+  [
+   "the",
+   3.12,
+   3.2
+  ],
+  [
+   "soldiers",
+   3.32,
+   3.6
+  ],
+  [
+   "will",
+   3.68,
+   3.76
+  ],
+  [
+   "get",
+   3.84,
+   3.92
+  ],
+  [
+   "medals.",
+   4.0,
+   4.72
+  ]
+ ],
+ "hash": "b04ded462407"
+}

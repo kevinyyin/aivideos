@@ -1,0 +1,80 @@
+{
+ "text": "Eleven years later, he was on Alcatraz. He died a prisoner in 1947.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "Eleven",
+   0.0,
+   0.4
+  ],
+  [
+   "years",
+   0.48,
+   0.64
+  ],
+  [
+   "later,",
+   0.72,
+   1.36
+  ],
+  [
+   "he",
+   1.44,
+   1.52
+  ],
+  [
+   "was",
+   1.6,
+   1.68
+  ],
+  [
+   "on",
+   1.72,
+   1.76
+  ],
+  [
+   "Alcatraz.",
+   1.84,
+   2.96
+  ],
+  [
+   "He",
+   3.04,
+   3.2
+  ],
+  [
+   "died",
+   3.28,
+   3.44
+  ],
+  [
+   "a",
+   3.48,
+   3.52
+  ],
+  [
+   "prisoner",
+   3.6,
+   4.08
+  ],
+  [
+   "in",
+   4.16,
+   4.32
+  ],
+  [
+   "1947.",
+   4.36,
+   5.76
+  ]
+ ],
+ "hash": "52bc451af891"
+}

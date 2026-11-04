@@ -1,0 +1,133 @@
+{
+ "tone": "explainer",
+ "look": {
+  "exposure": 1.0,
+  "fill": 0
+ },
+ "fps": 30,
+ "duration": 63.62,
+ "hudIn": 5.36,
+ "hudLabel": "ROUNDS FIRED",
+ "hud": [
+  {
+   "t0": 5.36,
+   "t1": 14.4,
+   "from": 0,
+   "to": 0,
+   "time": "OCTOBER 1932",
+   "age": "20,000 EMUS · CAMPION, W. AUSTRALIA"
+  },
+  {
+   "t0": 14.4,
+   "t1": 16.68,
+   "from": 0,
+   "to": 0,
+   "time": "NOVEMBER 1932",
+   "age": "2 LEWIS GUNS · 10,000 ROUNDS"
+  },
+  {
+   "t0": 16.68,
+   "t1": 20.61,
+   "from": 0,
+   "to": 108,
+   "time": "NOV 2, 1932",
+   "age": "DAY ONE",
+   "r0": 19.987,
+   "r1": 20.61,
+   "linear": true
+  },
+  {
+   "t0": 20.61,
+   "t1": 26.78,
+   "from": 108,
+   "to": 1174,
+   "time": "NOV 4, 1932",
+   "age": "THE DAM · 1,000+ EMUS",
+   "r0": 20.61,
+   "r1": 26.78,
+   "linear": true
+  },
+  {
+   "t0": 26.78,
+   "t1": 32.25,
+   "from": 1174,
+   "to": 2120,
+   "time": "NOVEMBER 1932",
+   "age": "ONE LEWIS GUN, ONE TRUCK",
+   "r0": 26.78,
+   "r1": 32.25,
+   "linear": true
+  },
+  {
+   "t0": 32.25,
+   "t1": 35.78,
+   "from": 2120,
+   "to": 2500,
+   "time": "NOV 8, 1932",
+   "age": "ARMY WITHDRAWN",
+   "r0": 32.25,
+   "r1": 34.45,
+   "linear": true
+  },
+  {
+   "t0": 35.78,
+   "t1": 39.25,
+   "from": 2500,
+   "to": 2500,
+   "time": "NOVEMBER 1932",
+   "age": "THE PRESS NAMES IT “THE EMU WAR”"
+  },
+  {
+   "t0": 39.25,
+   "t1": 43.85,
+   "from": 2500,
+   "to": 2500,
+   "time": "NOVEMBER 1932",
+   "age": "HOUSE OF REPRESENTATIVES"
+  },
+  {
+   "t0": 43.85,
+   "t1": 49.68,
+   "from": 2500,
+   "to": 2500,
+   "time": "NOVEMBER 1932",
+   "age": "MEREDITH: “THE INVULNERABILITY OF TANKS”"
+  },
+  {
+   "t0": 49.68,
+   "t1": 55.4,
+   "from": 2500,
+   "to": 2500,
+   "time": "NOVEMBER 1932",
+   "age": "“EACH PACK SEEMS TO HAVE ITS OWN LEADER”"
+  },
+  {
+   "t0": 55.4,
+   "t1": 59.18,
+   "from": 2500,
+   "to": 9860,
+   "r0": 56.098,
+   "r1": 57.565,
+   "time": "DEC 10, 1932",
+   "age": "MEREDITH'S CLAIM: 10 ROUNDS PER BIRD"
+  },
+  {
+   "t0": 59.18,
+   "t1": 64.62,
+   "from": 9860,
+   "to": 9860,
+   "time": "TODAY",
+   "age": "ON THE COAT OF ARMS SINCE 1908",
+   "ageGoldAt": 61.97
+  }
+ ],
+ "subs": [],
+ "debugView": {
+  "center": [
+   0,
+   0,
+   0
+  ],
+  "height": 30
+ }
+}

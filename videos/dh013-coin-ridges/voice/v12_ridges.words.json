@@ -1,0 +1,120 @@
+{
+ "text": "You see, his Mint melted the old money down and struck new coins by machine, with ridges all around the edge.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "You",
+   0.0,
+   0.16
+  ],
+  [
+   "see,",
+   0.24,
+   0.72
+  ],
+  [
+   "his",
+   0.8,
+   1.04
+  ],
+  [
+   "Mint",
+   1.12,
+   1.44
+  ],
+  [
+   "melted",
+   1.52,
+   1.92
+  ],
+  [
+   "the",
+   1.96,
+   2.0
+  ],
+  [
+   "old",
+   2.08,
+   2.24
+  ],
+  [
+   "money",
+   2.36,
+   2.48
+  ],
+  [
+   "down",
+   2.56,
+   2.96
+  ],
+  [
+   "and",
+   3.12,
+   3.2
+  ],
+  [
+   "struck",
+   3.28,
+   3.6
+  ],
+  [
+   "new",
+   3.68,
+   3.84
+  ],
+  [
+   "coins",
+   3.92,
+   4.24
+  ],
+  [
+   "by",
+   4.32,
+   4.4
+  ],
+  [
+   "machine,",
+   4.68,
+   5.36
+  ],
+  [
+   "with",
+   5.44,
+   5.52
+  ],
+  [
+   "ridges",
+   5.6,
+   6.08
+  ],
+  [
+   "all",
+   6.2,
+   6.32
+  ],
+  [
+   "around",
+   6.48,
+   6.64
+  ],
+  [
+   "the",
+   6.68,
+   6.72
+  ],
+  [
+   "edge.",
+   6.8,
+   7.44
+  ]
+ ],
+ "hash": "0c5a116b88f6"
+}

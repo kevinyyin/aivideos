@@ -1,0 +1,70 @@
+{
+ "text": "Shave a ridged coin, and the ridges vanish. Everyone can tell.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "Shave",
+   0.0,
+   0.32
+  ],
+  [
+   "a",
+   0.4,
+   0.48
+  ],
+  [
+   "ridged",
+   0.64,
+   0.8
+  ],
+  [
+   "coin,",
+   0.88,
+   1.6
+  ],
+  [
+   "and",
+   1.68,
+   1.76
+  ],
+  [
+   "the",
+   1.8,
+   1.84
+  ],
+  [
+   "ridges",
+   1.92,
+   2.24
+  ],
+  [
+   "vanish.",
+   2.32,
+   3.0
+  ],
+  [
+   "Everyone",
+   3.2,
+   3.6
+  ],
+  [
+   "can",
+   3.68,
+   3.84
+  ],
+  [
+   "tell.",
+   4.0,
+   4.48
+  ]
+ ],
+ "hash": "4fe7301cb466"
+}

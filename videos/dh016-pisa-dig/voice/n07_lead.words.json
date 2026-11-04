@@ -1,0 +1,75 @@
+{
+ "text": "So they stack six hundred tonnes of lead on the high side.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "So",
+   0.0,
+   0.16
+  ],
+  [
+   "they",
+   0.24,
+   0.32
+  ],
+  [
+   "stack",
+   0.4,
+   0.72
+  ],
+  [
+   "six",
+   0.88,
+   1.04
+  ],
+  [
+   "hundred",
+   1.12,
+   1.36
+  ],
+  [
+   "tonnes",
+   1.52,
+   1.84
+  ],
+  [
+   "of",
+   1.92,
+   2.0
+  ],
+  [
+   "lead",
+   2.08,
+   2.4
+  ],
+  [
+   "on",
+   2.48,
+   2.56
+  ],
+  [
+   "the",
+   2.6,
+   2.64
+  ],
+  [
+   "high",
+   2.72,
+   2.88
+  ],
+  [
+   "side.",
+   2.96,
+   3.6
+  ]
+ ],
+ "hash": "a91bf93fe468"
+}

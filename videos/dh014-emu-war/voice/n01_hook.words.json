@@ -1,0 +1,100 @@
+{
+ "text": "In 1932, an army major took two machine guns into Australia's wheat fields to fight a bird.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "In",
+   0.0,
+   0.16
+  ],
+  [
+   "1932,",
+   0.24,
+   1.6
+  ],
+  [
+   "an",
+   1.68,
+   1.84
+  ],
+  [
+   "army",
+   1.92,
+   2.16
+  ],
+  [
+   "major",
+   2.24,
+   2.56
+  ],
+  [
+   "took",
+   2.64,
+   2.88
+  ],
+  [
+   "two",
+   2.96,
+   3.04
+  ],
+  [
+   "machine",
+   3.12,
+   3.52
+  ],
+  [
+   "guns",
+   3.6,
+   3.84
+  ],
+  [
+   "into",
+   3.92,
+   4.08
+  ],
+  [
+   "Australia's",
+   4.16,
+   4.8
+  ],
+  [
+   "wheat",
+   4.84,
+   5.04
+  ],
+  [
+   "fields",
+   5.12,
+   5.52
+  ],
+  [
+   "to",
+   5.68,
+   5.76
+  ],
+  [
+   "fight",
+   5.92,
+   6.08
+  ],
+  [
+   "a",
+   6.12,
+   6.16
+  ],
+  [
+   "bird.",
+   6.24,
+   6.96
+  ]
+ ],
+ "hash": "ad5ab9453836"
+}

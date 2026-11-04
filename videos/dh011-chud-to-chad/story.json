@@ -1,0 +1,381 @@
+{
+ "tone": "funny",
+ "look": {
+  "exposure": 1.05,
+  "fill": 0.5,
+  "vignette": 0.22,
+  "bloom": 0.22,
+  "bloomThreshold": 0.92
+ },
+ "fps": 30,
+ "duration": 69.6,
+ "title": {
+  "html": "What if you went from chud to <em>chad</em>?",
+  "in": -0.4,
+  "out": 3.2
+ },
+ "hudLabel": "CHAD LEVEL",
+ "hud": [
+  {
+   "t0": 0.0,
+   "t1": 8.2,
+   "from": 2,
+   "to": 2,
+   "dec": 0,
+   "time": "DAY 1 · 3:07 AM",
+   "age": "GOBLIN MODE · OXFORD WORD OF THE YEAR 2022",
+   "label": "CHAD LEVEL",
+   "suffix": "%"
+  },
+  {
+   "t0": 8.2,
+   "t1": 13.6,
+   "from": 2,
+   "to": 18,
+   "dec": 0,
+   "time": "DAY 1 · 3:09 AM",
+   "age": "MASSETER · YOUR STRONGEST MUSCLE (GUINNESS)",
+   "r0": 9.2,
+   "r1": 11.8,
+   "label": "CHAD LEVEL",
+   "suffix": "%"
+  },
+  {
+   "t0": 13.6,
+   "t1": 16.4,
+   "from": 18,
+   "to": 30,
+   "dec": 0,
+   "time": "DAY 2 · 8 HOURS LATER",
+   "age": "1 IN 3 US ADULTS SLEEPS UNDER 7 HOURS (CDC)",
+   "r0": 14.4,
+   "r1": 16.0,
+   "label": "CHAD LEVEL",
+   "suffix": "%"
+  },
+  {
+   "t0": 16.4,
+   "t1": 19.6,
+   "from": 30,
+   "to": 45,
+   "dec": 0,
+   "time": "DAY 2 · 11:13 AM",
+   "age": "HEIGHT · +30 cm",
+   "r0": 17.3,
+   "r1": 18.5,
+   "label": "CHAD LEVEL",
+   "suffix": "%"
+  },
+  {
+   "t0": 19.6,
+   "t1": 25.0,
+   "from": 45,
+   "to": 62,
+   "dec": 0,
+   "time": "+1 WEEK",
+   "age": "COMBS BROKEN · 1",
+   "r0": 20.5,
+   "r1": 21.6,
+   "label": "CHAD LEVEL",
+   "suffix": "%"
+  },
+  {
+   "t0": 25.0,
+   "t1": 30.4,
+   "from": 62,
+   "to": 78,
+   "dec": 0,
+   "time": "+1 MONTH",
+   "age": "BARBELLS BENT · 2",
+   "r0": 26.2,
+   "r1": 28.9,
+   "label": "CHAD LEVEL",
+   "suffix": "%"
+  },
+  {
+   "t0": 30.4,
+   "t1": 35.8,
+   "from": 78,
+   "to": 90,
+   "dec": 0,
+   "time": "+3 MONTHS",
+   "age": "ACTUAL WIND · 0 km/h",
+   "r0": 31.0,
+   "r1": 35.0,
+   "label": "CHAD LEVEL",
+   "suffix": "%"
+  },
+  {
+   "t0": 35.8,
+   "t1": 41.2,
+   "from": 90,
+   "to": 100,
+   "dec": 0,
+   "time": "+4 MONTHS",
+   "age": "JAWLINE · 90.0° EXACTLY",
+   "r0": 36.5,
+   "r1": 40.3,
+   "ageGoldAt": 40.3,
+   "label": "CHAD LEVEL",
+   "suffix": "%"
+  },
+  {
+   "t0": 41.2,
+   "t1": 46.6,
+   "from": 0,
+   "to": 17,
+   "dec": 0,
+   "time": "+6 MONTHS",
+   "age": "PEOPLE MOGGED ON THIS TRAIN · 9",
+   "r0": 42.4,
+   "r1": 45.2,
+   "suffix": " m",
+   "label": "MOG RADIUS"
+  },
+  {
+   "t0": 46.6,
+   "t1": 48.4,
+   "from": 17,
+   "to": 40,
+   "dec": 0,
+   "time": "+9 MONTHS",
+   "age": "STATUES MOGGED · 1",
+   "r0": 47.3,
+   "r1": 47.8,
+   "suffix": " m",
+   "label": "MOG RADIUS"
+  },
+  {
+   "t0": 48.4,
+   "t1": 50.4,
+   "from": 40,
+   "to": 12000,
+   "dec": 0,
+   "time": "+9 MONTHS",
+   "age": "MOUNTAINS MOGGED · 1",
+   "r0": 48.85,
+   "r1": 49.85,
+   "suffix": " m",
+   "label": "MOG RADIUS"
+  },
+  {
+   "t0": 50.4,
+   "t1": 52.2,
+   "from": 12,
+   "to": 384400,
+   "dec": 0,
+   "time": "+10 MONTHS",
+   "age": "EARTH TO MOON · 384,400 km (NASA)",
+   "r0": 50.6,
+   "r1": 51.8,
+   "suffix": " km",
+   "label": "MOG RADIUS"
+  },
+  {
+   "t0": 52.2,
+   "t1": 54.0,
+   "from": 384400,
+   "to": 149600000,
+   "dec": 0,
+   "time": "+11 MONTHS · 4:12 PM",
+   "age": "EARTH TO SUN · 149.6 MILLION km (NASA)",
+   "r0": 52.4,
+   "r1": 53.6,
+   "suffix": " km",
+   "label": "MOG RADIUS"
+  },
+  {
+   "t0": 54.0,
+   "t1": 56.4,
+   "from": 149600000,
+   "to": 149600000,
+   "dec": 0,
+   "time": "+1 YEAR",
+   "age": "MIRRORS YOU OWN · 1",
+   "suffix": " km",
+   "label": "MOG RADIUS"
+  },
+  {
+   "t0": 56.4,
+   "t1": 59.6,
+   "from": 1000000000,
+   "to": 0,
+   "dec": 0,
+   "time": "+1 YEAR",
+   "age": "(WE DIDN'T COUNT THEM)",
+   "r0": 56.5,
+   "r1": 59.2,
+   "linear": true,
+   "label": "MIRRORS LEFT ON EARTH"
+  },
+  {
+   "t0": 59.6,
+   "t1": 62.8,
+   "from": 100,
+   "to": 100,
+   "dec": 0,
+   "time": "+1 YEAR · 3:07 AM",
+   "age": "MIRRORS LEFT ON EARTH · 0",
+   "label": "CHAD LEVEL",
+   "suffix": "%"
+  },
+  {
+   "t0": 62.8,
+   "t1": 69.6,
+   "from": 100,
+   "to": 2,
+   "dec": 0,
+   "time": "+1 YEAR · 3:08 AM",
+   "age": "GOBLIN MODE · RESTORED",
+   "r0": 62.9,
+   "r1": 63.8,
+   "label": "CHAD LEVEL",
+   "suffix": "%"
+  }
+ ],
+ "subs": [
+  [
+   3.45,
+   5.6,
+   "3:07 AM. You, in goblin mode."
+  ],
+  [
+   5.8,
+   7.9,
+   "Posture: shrimp."
+  ],
+  [
+   8.4,
+   10.3,
+   "Day 1. Tip one: mewing."
+  ],
+  [
+   10.6,
+   13.3,
+   "Your jaw squares off. Literally."
+  ],
+  [
+   13.8,
+   16.2,
+   "Tip two: sleep eight hours."
+  ],
+  [
+   16.6,
+   19.3,
+   "Tip three: stand up straight."
+  ],
+  [
+   19.8,
+   22.0,
+   "+1 week. The haircut sculpts itself."
+  ],
+  [
+   22.4,
+   24.7,
+   "The comb doesn't survive."
+  ],
+  [
+   25.2,
+   27.3,
+   "+1 month. The gym."
+  ],
+  [
+   27.8,
+   30.1,
+   "The barbell gives up first."
+  ],
+  [
+   30.6,
+   33.1,
+   "+3 months. You walk in slow motion now."
+  ],
+  [
+   33.3,
+   35.5,
+   "Wind from nowhere."
+  ],
+  [
+   35.9,
+   37.5,
+   "Your jawline slices bread,"
+  ],
+  [
+   37.7,
+   39.3,
+   "cuts ribbons,"
+  ],
+  [
+   39.5,
+   41.0,
+   "splits logs."
+  ],
+  [
+   41.4,
+   43.4,
+   "+6 months. You mog people now."
+  ],
+  [
+   43.7,
+   46.3,
+   "Anyone next to you shrinks."
+  ],
+  [
+   46.7,
+   48.3,
+   "You mog a statue."
+  ],
+  [
+   48.5,
+   50.2,
+   "A mountain."
+  ],
+  [
+   50.5,
+   52.0,
+   "The Moon hides."
+  ],
+  [
+   52.3,
+   53.85,
+   "The Sun sets early."
+  ],
+  [
+   54.2,
+   56.3,
+   "+1 year. Finally: a mirror."
+  ],
+  [
+   56.6,
+   59.3,
+   "Every mirror on Earth shatters."
+  ],
+  [
+   59.8,
+   62.1,
+   "Only one reflection left."
+  ],
+  [
+   62.5,
+   65.0,
+   "The chair was waiting."
+  ]
+ ],
+ "end": {
+  "in": 65.6,
+  "html": "Chud or Chad: who has more <em>fun</em>?",
+  "small": "TELL US BELOW"
+ },
+ "dips": [],
+ "finalFade": [
+  65.0,
+  65.6
+ ],
+ "debugView": {
+  "center": [
+   0,
+   0,
+   0
+  ],
+  "height": 10
+ }
+}

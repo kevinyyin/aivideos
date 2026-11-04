@@ -1,0 +1,50 @@
+{
+ "text": "Even Poisson's wife thought it smelled fishy.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "Even",
+   0.0,
+   0.24
+  ],
+  [
+   "Poisson's",
+   0.32,
+   0.88
+  ],
+  [
+   "wife",
+   1.08,
+   1.28
+  ],
+  [
+   "thought",
+   1.36,
+   1.44
+  ],
+  [
+   "it",
+   1.52,
+   1.6
+  ],
+  [
+   "smelled",
+   1.68,
+   1.92
+  ],
+  [
+   "fishy.",
+   2.08,
+   2.8
+  ]
+ ],
+ "hash": "f52d61e0cc8e"
+}

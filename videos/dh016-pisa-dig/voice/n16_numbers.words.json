@@ -1,0 +1,70 @@
+{
+ "text": "Thirty-eight cubic meters later, the top has swung back forty-five centimeters.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "Thirty-eight",
+   0.0,
+   0.48
+  ],
+  [
+   "cubic",
+   0.64,
+   0.96
+  ],
+  [
+   "meters",
+   1.04,
+   1.28
+  ],
+  [
+   "later,",
+   1.44,
+   2.08
+  ],
+  [
+   "the",
+   2.16,
+   2.24
+  ],
+  [
+   "top",
+   2.36,
+   2.48
+  ],
+  [
+   "has",
+   2.56,
+   2.72
+  ],
+  [
+   "swung",
+   2.8,
+   3.04
+  ],
+  [
+   "back",
+   3.12,
+   3.36
+  ],
+  [
+   "forty-five",
+   3.52,
+   4.0
+  ],
+  [
+   "centimeters.",
+   4.16,
+   5.04
+  ]
+ ],
+ "hash": "80c5e62633c2"
+}

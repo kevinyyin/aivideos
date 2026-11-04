@@ -1,0 +1,70 @@
+{
+ "text": "A fake would never dare. So Poisson knew he was real.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "A",
+   0.0,
+   0.16
+  ],
+  [
+   "fake",
+   0.24,
+   0.56
+  ],
+  [
+   "would",
+   0.68,
+   0.8
+  ],
+  [
+   "never",
+   0.96,
+   1.2
+  ],
+  [
+   "dare.",
+   1.28,
+   1.84
+  ],
+  [
+   "So",
+   2.08,
+   2.24
+  ],
+  [
+   "Poisson",
+   2.32,
+   2.8
+  ],
+  [
+   "knew",
+   2.96,
+   3.12
+  ],
+  [
+   "he",
+   3.2,
+   3.28
+  ],
+  [
+   "was",
+   3.36,
+   3.44
+  ],
+  [
+   "real.",
+   3.52,
+   4.16
+  ]
+ ],
+ "hash": "b739bd3b6c33"
+}

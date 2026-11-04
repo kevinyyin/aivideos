@@ -1,0 +1,70 @@
+{
+ "text": "So he bolts a gun onto a truck and chases them.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "So",
+   0.0,
+   0.16
+  ],
+  [
+   "he",
+   0.28,
+   0.4
+  ],
+  [
+   "bolts",
+   0.48,
+   0.64
+  ],
+  [
+   "a",
+   0.72,
+   0.8
+  ],
+  [
+   "gun",
+   0.88,
+   1.12
+  ],
+  [
+   "onto",
+   1.24,
+   1.36
+  ],
+  [
+   "a",
+   1.44,
+   1.52
+  ],
+  [
+   "truck",
+   1.76,
+   2.0
+  ],
+  [
+   "and",
+   2.12,
+   2.24
+  ],
+  [
+   "chases",
+   2.32,
+   2.64
+  ],
+  [
+   "them.",
+   2.72,
+   3.2
+  ]
+ ],
+ "hash": "737a079225e2"
+}

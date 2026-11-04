@@ -1,0 +1,100 @@
+{
+ "text": "Bookies took bets it wouldn't see this century. Now it's safe for at least two hundred years.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "Bookies",
+   0.0,
+   0.48
+  ],
+  [
+   "took",
+   0.56,
+   0.64
+  ],
+  [
+   "bets",
+   0.72,
+   0.96
+  ],
+  [
+   "it",
+   1.04,
+   1.2
+  ],
+  [
+   "wouldn't",
+   1.28,
+   1.44
+  ],
+  [
+   "see",
+   1.52,
+   1.68
+  ],
+  [
+   "this",
+   1.8,
+   1.92
+  ],
+  [
+   "century.",
+   2.0,
+   2.96
+  ],
+  [
+   "Now",
+   3.08,
+   3.2
+  ],
+  [
+   "it's",
+   3.24,
+   3.36
+  ],
+  [
+   "safe",
+   3.44,
+   3.68
+  ],
+  [
+   "for",
+   3.76,
+   3.84
+  ],
+  [
+   "at",
+   3.92,
+   4.0
+  ],
+  [
+   "least",
+   4.16,
+   4.32
+  ],
+  [
+   "two",
+   4.44,
+   4.56
+  ],
+  [
+   "hundred",
+   4.64,
+   4.96
+  ],
+  [
+   "years.",
+   5.12,
+   5.84
+  ]
+ ],
+ "hash": "608bb1753697"
+}

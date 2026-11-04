@@ -1,0 +1,90 @@
+{
+ "text": "On day one, farmers herd the flock toward the guns, and it just splits up.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "On",
+   0.0,
+   0.16
+  ],
+  [
+   "day",
+   0.24,
+   0.4
+  ],
+  [
+   "one,",
+   0.56,
+   1.12
+  ],
+  [
+   "farmers",
+   1.2,
+   1.6
+  ],
+  [
+   "herd",
+   1.68,
+   1.84
+  ],
+  [
+   "the",
+   1.92,
+   2.0
+  ],
+  [
+   "flock",
+   2.08,
+   2.32
+  ],
+  [
+   "toward",
+   2.4,
+   2.56
+  ],
+  [
+   "the",
+   2.6,
+   2.64
+  ],
+  [
+   "guns,",
+   2.72,
+   3.44
+  ],
+  [
+   "and",
+   3.52,
+   3.6
+  ],
+  [
+   "it",
+   3.68,
+   3.76
+  ],
+  [
+   "just",
+   3.88,
+   4.0
+  ],
+  [
+   "splits",
+   4.16,
+   4.56
+  ],
+  [
+   "up.",
+   4.64,
+   5.2
+  ]
+ ],
+ "hash": "c3e0c2d974e5"
+}

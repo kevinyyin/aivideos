@@ -1,0 +1,305 @@
+{
+  "tone": "funny",
+  "look": {
+    "exposure": 1.05,
+    "fill": 0.5,
+    "vignette": 0.26,
+    "bloom": 0.24,
+    "bloomThreshold": 0.9
+  },
+  "fps": 30,
+  "duration": 69.6,
+  "title": {
+    "html": "What if 100 men actually fought <em>1 gorilla</em>?",
+    "in": -0.4,
+    "out": 3.4
+  },
+  "subs": [
+    [
+      3.6,
+      5.5,
+      "100 men. 1 gorilla."
+    ],
+    [
+      5.65,
+      8.1,
+      "The internet finally gets an answer."
+    ],
+    [
+      8.4,
+      10.3,
+      "Dave has a plan."
+    ],
+    [
+      10.45,
+      13.0,
+      "Dave has never been to a gym."
+    ],
+    [
+      13.35,
+      15.6,
+      "Steve has not read the plan."
+    ],
+    [
+      15.75,
+      17.0,
+      "Steve stands up."
+    ],
+    [
+      17.1,
+      18.3,
+      "The men reconsider."
+    ],
+    [
+      18.5,
+      20.9,
+      "Second 0. Man #1 grabs a leg."
+    ],
+    [
+      22.5,
+      24.3,
+      "Step 1: complete."
+    ],
+    [
+      24.55,
+      26.7,
+      "+5 seconds. Steve goes bowling."
+    ],
+    [
+      27.0,
+      29.2,
+      "That's a strike."
+    ],
+    [
+      29.55,
+      31.7,
+      "+30 seconds. Step 2: surround him."
+    ],
+    [
+      31.85,
+      34.8,
+      "It's a perfect circle. For one second."
+    ],
+    [
+      35.15,
+      37.6,
+      "+10 minutes. Step 3: tire him out."
+    ],
+    [
+      37.75,
+      40.4,
+      "Steve is having a snack."
+    ],
+    [
+      40.75,
+      42.6,
+      "+11 minutes. Dogpile."
+    ],
+    [
+      42.8,
+      44.5,
+      "Steve stands up again."
+    ],
+    [
+      44.75,
+      46.0,
+      "Dave's last stand."
+    ],
+    [
+      46.1,
+      47.0,
+      "A peace offering."
+    ],
+    [
+      47.15,
+      48.95,
+      "Steve accepts."
+    ],
+    [
+      49.15,
+      51.0,
+      "+1 day. Steve's press conference."
+    ],
+    [
+      51.15,
+      52.5,
+      "No questions."
+    ],
+    [
+      52.75,
+      54.8,
+      "+1 week. Steve runs for mayor."
+    ],
+    [
+      54.95,
+      56.7,
+      "Campaign staff: 100 men."
+    ],
+    [
+      56.95,
+      58.9,
+      "+1 year. The support group."
+    ],
+    [
+      58.95,
+      60.75,
+      "Dave still says he had him."
+    ],
+    [
+      60.95,
+      63.15,
+      "Real silverbacks are gentle plant-eaters."
+    ],
+    [
+      63.3,
+      65.3,
+      "Most charges are just a bluff."
+    ]
+  ],
+  "hudLabel": "MEN STILL STANDING",
+  "hud": [
+    {
+      "t0": 0.0,
+      "t1": 8.2,
+      "from": 100,
+      "to": 100,
+      "time": "FIGHT NIGHT · 7:59 PM",
+      "age": "THE DEBATE · 70 M VIEWS IN 2 DAYS"
+    },
+    {
+      "t0": 8.2,
+      "t1": 13.2,
+      "from": 100,
+      "to": 100,
+      "time": "LOCKER ROOM · 7:59 PM",
+      "age": "STEPS IN THE PLAN · 3"
+    },
+    {
+      "t0": 13.2,
+      "t1": 18.4,
+      "from": 100,
+      "to": 100,
+      "time": "FIGHT NIGHT · 8:00 PM",
+      "age": "STEVE · 136–181 KG (300–400 LB)"
+    },
+    {
+      "t0": 18.4,
+      "t1": 24.4,
+      "from": 100,
+      "to": 99,
+      "r0": 22.75,
+      "r1": 23.05,
+      "time": "SECOND 0",
+      "age": "STANDING · UP TO 1.8 M (6 FT)"
+    },
+    {
+      "t0": 24.4,
+      "t1": 29.4,
+      "from": 99,
+      "to": 89,
+      "r0": 26.95,
+      "r1": 27.8,
+      "time": "+5 SECONDS",
+      "age": "MEN PER THROW · 10"
+    },
+    {
+      "t0": 29.4,
+      "t1": 35.0,
+      "from": 89,
+      "to": 41,
+      "r0": 32.6,
+      "r1": 33.6,
+      "time": "+30 SECONDS",
+      "age": "\"10× STRONGER\" · NEVER MEASURED"
+    },
+    {
+      "t0": 35.0,
+      "t1": 40.6,
+      "from": 41,
+      "to": 12,
+      "r0": 36.0,
+      "r1": 40.0,
+      "linear": true,
+      "time": "+10 MINUTES",
+      "age": "EATS UP TO 18 KG OF PLANTS A DAY"
+    },
+    {
+      "t0": 40.6,
+      "t1": 44.6,
+      "from": 12,
+      "to": 1,
+      "r0": 43.15,
+      "r1": 44.3,
+      "time": "+11 MINUTES",
+      "age": "MEN ON STEVE · 12"
+    },
+    {
+      "t0": 44.6,
+      "t1": 49.0,
+      "from": 1,
+      "to": 0,
+      "r0": 48.2,
+      "r1": 48.35,
+      "time": "+12 MINUTES",
+      "ageFrom": "BANANAS OFFERED · 1",
+      "age": "GORILLA 1 · HUMANITY 0",
+      "ageGoldAt": 48.25
+    },
+    {
+      "t0": 49.0,
+      "t1": 52.6,
+      "label": "QUESTIONS ANSWERED",
+      "from": 0,
+      "to": 0,
+      "time": "+1 DAY",
+      "age": "BANANAS EATEN ON STAGE · 3"
+    },
+    {
+      "t0": 52.6,
+      "t1": 56.8,
+      "label": "VOTES FOR STEVE",
+      "from": 0,
+      "to": 100,
+      "r0": 54.9,
+      "r1": 56.4,
+      "time": "+1 WEEK",
+      "age": "HIS PLATFORM · MORE TREES"
+    },
+    {
+      "t0": 56.8,
+      "t1": 60.8,
+      "label": "MEN IN CASTS",
+      "from": 100,
+      "to": 100,
+      "time": "+1 YEAR",
+      "age": "DAVE'S GYM VISITS · STILL 0"
+    },
+    {
+      "t0": 60.8,
+      "t1": 69.6,
+      "label": "MOUNTAIN GORILLAS LEFT",
+      "from": 1063,
+      "to": 1063,
+      "time": "+1 YEAR",
+      "age": "IN THE WILD · 2019 CENSUS"
+    }
+  ],
+  "end": {
+    "in": 65.6,
+    "html": "Be honest: how long would <em>YOU</em> last?",
+    "small": "TELL US BELOW"
+  },
+  "dips": [],
+  "finalFade": [
+    65.0,
+    65.6
+  ],
+  "debugView": {
+    "center": [
+      -20,
+      0,
+      0
+    ],
+    "height": 30
+  }
+}

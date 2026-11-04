@@ -1,0 +1,33 @@
+// dh016 picture table, read by shots.js AND make_cues.py (everything after "CUT = " is plain JSON).
+// t0 = video time the picture starts (on the narration's words, timeline.js); dz = zoom-dissolve into it (a new place).
+export const CUT = [
+ {"t0": 0.0, "shot": "h1", "set": "piazza"},
+ {"t0": 1.22, "shot": "h2", "set": "piazza", "dz": true},
+ {"t0": 2.63, "shot": "h3", "set": "piazza", "dz": true},
+ {"t0": 5.46, "shot": "s1", "set": "section", "dz": true},
+ {"t0": 7.13, "shot": "s2", "set": "piazza", "dz": true},
+ {"t0": 8.9, "shot": "m1", "set": "piazza", "dz": true},
+ {"t0": 10.72, "shot": "m2", "set": "section", "dz": true},
+ {"t0": 13.09, "shot": "w1", "set": "piazza", "dz": true},
+ {"t0": 15.41, "shot": "w2", "set": "section", "dz": true},
+ {"t0": 16.92, "shot": "c1", "set": "piazza", "dz": true},
+ {"t0": 19.92, "shot": "c2", "set": "piazza"},
+ {"t0": 21.17, "shot": "d1", "set": "piazza", "dz": true},
+ {"t0": 23.63, "shot": "d2", "set": "piazza"},
+ {"t0": 24.61, "shot": "l1", "set": "piazza", "dz": true},
+ {"t0": 27.3, "shot": "f1", "set": "piazza", "dz": true},
+ {"t0": 30.75, "shot": "f2", "set": "piazza"},
+ {"t0": 33.7, "shot": "y1", "set": "piazza", "dz": true},
+ {"t0": 34.95, "shot": "y2", "set": "piazza"},
+ {"t0": 37.06, "shot": "t1", "set": "piazza", "dz": true},
+ {"t0": 39.45, "shot": "q1", "set": "piazza", "dz": true},
+ {"t0": 42.5, "shot": "r1", "set": "section", "dz": true},
+ {"t0": 45.87, "shot": "r2", "set": "section"},
+ {"t0": 49.14, "shot": "k1", "set": "kitchen", "dz": true},
+ {"t0": 51.89, "shot": "n1", "set": "piazza", "dz": true},
+ {"t0": 53.42, "shot": "n2", "set": "piazza"},
+ {"t0": 55.67, "shot": "p1", "set": "piazza", "dz": true},
+ {"t0": 57.9, "shot": "p2", "set": "piazza"},
+ {"t0": 58.83, "shot": "b1", "set": "piazza", "dz": true},
+ {"t0": 60.98, "shot": "e1", "set": "piazza", "dz": true}
+];

@@ -1,0 +1,80 @@
+{
+ "text": "Then Chaloner paid the star witness to flee to Scotland, and walked free.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "Then",
+   0.0,
+   0.24
+  ],
+  [
+   "Chaloner",
+   0.32,
+   0.8
+  ],
+  [
+   "paid",
+   0.92,
+   1.04
+  ],
+  [
+   "the",
+   1.12,
+   1.16
+  ],
+  [
+   "star",
+   1.2,
+   1.44
+  ],
+  [
+   "witness",
+   1.52,
+   1.92
+  ],
+  [
+   "to",
+   1.96,
+   2.0
+  ],
+  [
+   "flee",
+   2.16,
+   2.32
+  ],
+  [
+   "to",
+   2.36,
+   2.4
+  ],
+  [
+   "Scotland,",
+   2.48,
+   3.28
+  ],
+  [
+   "and",
+   3.36,
+   3.44
+  ],
+  [
+   "walked",
+   3.52,
+   3.84
+  ],
+  [
+   "free.",
+   3.92,
+   4.48
+  ]
+ ],
+ "hash": "7894d60a7c13"
+}

@@ -1,0 +1,251 @@
+{
+  "tone": "funny",
+  "look": {
+    "exposure": 1.05,
+    "fill": 0.45,
+    "vignette": 0.26,
+    "bloom": 0.24,
+    "bloomThreshold": 0.9
+  },
+  "fps": 30,
+  "duration": 67.5,
+  "title": {
+    "html": "What if electrons disappeared for <em>five seconds</em>?",
+    "in": -0.4,
+    "out": 3.4
+  },
+  "subs": [
+    [
+      3.6,
+      6.3,
+      "You're on a busy street at noon."
+    ],
+    [
+      6.6,
+      9.3,
+      "Second 0. Every electron on Earth goes on break."
+    ],
+    [
+      9.45,
+      11.4,
+      "It's noon. The sky is black."
+    ],
+    [
+      11.55,
+      14.0,
+      "Blue sky was sunlight bouncing off electrons."
+    ],
+    [
+      14.2,
+      16.55,
+      "Nothing can reflect light anymore."
+    ],
+    [
+      16.75,
+      19.8,
+      "Not the buildings. Not the people. Not your own hands."
+    ],
+    [
+      20.1,
+      22.6,
+      "One femtosecond. Every molecule falls apart."
+    ],
+    [
+      22.75,
+      25.8,
+      "Molecules are atoms sharing electrons. Sharing is over."
+    ],
+    [
+      26.1,
+      29.7,
+      "Feynman: two people with 1% extra charge could lift the Earth."
+    ],
+    [
+      29.85,
+      31.9,
+      "Everyone here has 100%."
+    ],
+    [
+      32.1,
+      34.6,
+      "One millisecond. The street is 300 km tall."
+    ],
+    [
+      34.75,
+      37.8,
+      "And climbing at nearly the speed of light."
+    ],
+    [
+      38.1,
+      40.3,
+      "0.021 seconds. Earth doubles in size."
+    ],
+    [
+      40.45,
+      43.3,
+      "Gravity loses a trillion trillion trillion to one."
+    ],
+    [
+      43.5,
+      45.7,
+      "Energy to blow up Earth: this much."
+    ],
+    [
+      45.85,
+      49.0,
+      "Energy released: 300 billion trillion trillion times that."
+    ],
+    [
+      49.2,
+      51.6,
+      "1.3 seconds. Earth reaches the Moon."
+    ],
+    [
+      51.75,
+      54.3,
+      "The Moon left too. 3.7 seconds to go."
+    ],
+    [
+      54.5,
+      56.95,
+      "Five seconds. The electrons come back from break."
+    ],
+    [
+      57.1,
+      58.9,
+      "Nothing is where they left it."
+    ],
+    [
+      59.05,
+      60.6,
+      "Except one hot dog."
+    ],
+    [
+      60.75,
+      62.35,
+      "So the electrons explode too."
+    ]
+  ],
+  "hudLabel": "ELECTRONS RETURN IN",
+  "hudTimeSize": 18,
+  "hud": [
+    {
+      "t0": 0.0,
+      "t1": 6.5,
+      "label": "ELECTRONS DISAPPEAR IN",
+      "clock": true,
+      "from": 3.0,
+      "to": 0.0,
+      "r0": 3.5,
+      "r1": 6.5,
+      "linear": true,
+      "time": "IN YOUR BODY: 23,000,000,000,000,000,000,000,000,000"
+    },
+    {
+      "t0": 6.5,
+      "t1": 20.0,
+      "clock": true,
+      "from": 5.0,
+      "to": 5.0,
+      "time": "TIME FROZEN AT SECOND 0"
+    },
+    {
+      "t0": 20.0,
+      "t1": 26.0,
+      "clock": true,
+      "from": 5.0,
+      "to": 5.0,
+      "time": "TIME SLOWED DOWN 1,000,000,000,000,000×"
+    },
+    {
+      "t0": 26.0,
+      "t1": 32.0,
+      "clock": true,
+      "from": 5.0,
+      "to": 5.0,
+      "time": "TIME SLOWED DOWN 1,000,000,000×"
+    },
+    {
+      "t0": 32.0,
+      "t1": 38.0,
+      "clock": true,
+      "from": 5.0,
+      "to": 4.999,
+      "r0": 32.0,
+      "r1": 38.0,
+      "linear": true,
+      "time": "TIME SLOWED DOWN 6,000×"
+    },
+    {
+      "t0": 38.0,
+      "t1": 43.4,
+      "clock": true,
+      "from": 4.999,
+      "to": 4.979,
+      "r0": 38.0,
+      "r1": 43.4,
+      "linear": true,
+      "time": "TIME SLOWED DOWN 250×"
+    },
+    {
+      "t0": 43.4,
+      "t1": 49.1,
+      "clock": true,
+      "from": 4.979,
+      "to": 4.9,
+      "r0": 43.4,
+      "r1": 49.1,
+      "linear": true,
+      "time": "TIME SLOWED DOWN 70×"
+    },
+    {
+      "t0": 49.1,
+      "t1": 54.4,
+      "clock": true,
+      "from": 4.9,
+      "to": 3.7,
+      "r0": 49.1,
+      "r1": 54.4,
+      "linear": true,
+      "time": "TIME SLOWED DOWN 4×"
+    },
+    {
+      "t0": 54.4,
+      "t1": 54.95,
+      "clock": true,
+      "from": 3.7,
+      "to": 0.0,
+      "r0": 54.4,
+      "r1": 54.95,
+      "linear": true,
+      "time": "FAST-FORWARD ▶▶"
+    },
+    {
+      "t0": 54.95,
+      "t1": 67.5,
+      "label": "ELECTRONS BACK",
+      "clock": true,
+      "from": 0.0,
+      "to": 0.0,
+      "time": "+5.000 s"
+    }
+  ],
+  "end": {
+    "in": 63.0,
+    "html": "Which particle should vanish <em>next</em>?",
+    "small": "TELL US BELOW"
+  },
+  "dips": [],
+  "finalFade": [
+    62.4,
+    63.0
+  ],
+  "debugView": {
+    "center": [
+      0,
+      0,
+      0
+    ],
+    "height": 12
+  }
+}

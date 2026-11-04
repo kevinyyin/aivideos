@@ -1,0 +1,55 @@
+{
+ "text": "So why did Poisson ignore his own wife?",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "So",
+   0.0,
+   0.24
+  ],
+  [
+   "why",
+   0.4,
+   0.56
+  ],
+  [
+   "did",
+   0.64,
+   0.72
+  ],
+  [
+   "Poisson",
+   0.8,
+   1.36
+  ],
+  [
+   "ignore",
+   1.44,
+   1.76
+  ],
+  [
+   "his",
+   1.84,
+   2.0
+  ],
+  [
+   "own",
+   2.08,
+   2.24
+  ],
+  [
+   "wife?",
+   2.32,
+   3.04
+  ]
+ ],
+ "hash": "ddb7db6b9ec5"
+}

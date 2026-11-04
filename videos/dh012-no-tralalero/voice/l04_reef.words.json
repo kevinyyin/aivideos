@@ -1,0 +1,25 @@
+{
+ "text": "Tralalero... tralala?",
+ "voice": "bIHbv24MWmeRgasZH58o",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.45,
+  "similarity_boost": 0.75,
+  "style": 0.3,
+  "use_speaker_boost": true,
+  "speed": 1.0
+ },
+ "words": [
+  [
+   "Tralalero...",
+   0.0,
+   1.6
+  ],
+  [
+   "tralala?",
+   1.76,
+   2.64
+  ]
+ ],
+ "hash": "b1736622daa6"
+}

@@ -1,0 +1,75 @@
+{
+ "text": "Yet Poisson paid, and Lustig fled to Austria with seventy thousand francs.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "Yet",
+   0.0,
+   0.16
+  ],
+  [
+   "Poisson",
+   0.24,
+   0.72
+  ],
+  [
+   "paid,",
+   0.8,
+   1.52
+  ],
+  [
+   "and",
+   1.6,
+   1.68
+  ],
+  [
+   "Lustig",
+   1.76,
+   2.16
+  ],
+  [
+   "fled",
+   2.32,
+   2.48
+  ],
+  [
+   "to",
+   2.56,
+   2.64
+  ],
+  [
+   "Austria",
+   2.72,
+   3.2
+  ],
+  [
+   "with",
+   3.28,
+   3.52
+  ],
+  [
+   "seventy",
+   3.6,
+   3.96
+  ],
+  [
+   "thousand",
+   4.08,
+   4.4
+  ],
+  [
+   "francs.",
+   4.48,
+   5.2
+  ]
+ ],
+ "hash": "693e4157c775"
+}

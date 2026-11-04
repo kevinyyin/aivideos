@@ -1,0 +1,55 @@
+{
+ "text": "It's like bowling, if the pins could run.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "It's",
+   0.0,
+   0.2
+  ],
+  [
+   "like",
+   0.24,
+   0.4
+  ],
+  [
+   "bowling,",
+   0.56,
+   1.36
+  ],
+  [
+   "if",
+   1.44,
+   1.52
+  ],
+  [
+   "the",
+   1.56,
+   1.6
+  ],
+  [
+   "pins",
+   1.68,
+   2.0
+  ],
+  [
+   "could",
+   2.08,
+   2.24
+  ],
+  [
+   "run.",
+   2.32,
+   2.88
+  ]
+ ],
+ "hash": "0c8480a24c91"
+}

@@ -1,0 +1,45 @@
+{
+ "text": "They even brought a newsreel cameraman.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "They",
+   0.0,
+   0.24
+  ],
+  [
+   "even",
+   0.32,
+   0.48
+  ],
+  [
+   "brought",
+   0.56,
+   0.72
+  ],
+  [
+   "a",
+   0.8,
+   0.88
+  ],
+  [
+   "newsreel",
+   0.96,
+   1.44
+  ],
+  [
+   "cameraman.",
+   1.56,
+   2.4
+  ]
+ ],
+ "hash": "f55fb05e505a"
+}

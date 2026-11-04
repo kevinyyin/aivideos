@@ -1,0 +1,75 @@
+{
+ "text": "Pisa's mayor says \"a plumber with a toilet jack\" would've done better.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "Pisa's",
+   0.0,
+   0.48
+  ],
+  [
+   "mayor",
+   0.56,
+   0.88
+  ],
+  [
+   "says",
+   0.96,
+   1.28
+  ],
+  [
+   "\"a",
+   1.52,
+   1.68
+  ],
+  [
+   "plumber",
+   1.76,
+   2.08
+  ],
+  [
+   "with",
+   2.16,
+   2.24
+  ],
+  [
+   "a",
+   2.32,
+   2.4
+  ],
+  [
+   "toilet",
+   2.48,
+   2.88
+  ],
+  [
+   "jack\"",
+   2.96,
+   3.32
+  ],
+  [
+   "would've",
+   3.36,
+   3.68
+  ],
+  [
+   "done",
+   3.76,
+   3.84
+  ],
+  [
+   "better.",
+   3.92,
+   4.48
+  ]
+ ],
+ "hash": "82ad31f974f3"
+}

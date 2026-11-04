@@ -1,0 +1,95 @@
+{
+ "text": "Then war stops the work for almost a century. The clay settles, and that saves it.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "Then",
+   0.0,
+   0.24
+  ],
+  [
+   "war",
+   0.32,
+   0.64
+  ],
+  [
+   "stops",
+   0.84,
+   1.04
+  ],
+  [
+   "the",
+   1.08,
+   1.12
+  ],
+  [
+   "work",
+   1.2,
+   1.44
+  ],
+  [
+   "for",
+   1.56,
+   1.68
+  ],
+  [
+   "almost",
+   1.76,
+   2.08
+  ],
+  [
+   "a",
+   2.16,
+   2.24
+  ],
+  [
+   "century.",
+   2.32,
+   3.28
+  ],
+  [
+   "The",
+   3.36,
+   3.44
+  ],
+  [
+   "clay",
+   3.48,
+   3.68
+  ],
+  [
+   "settles,",
+   3.76,
+   4.48
+  ],
+  [
+   "and",
+   4.56,
+   4.64
+  ],
+  [
+   "that",
+   4.76,
+   4.88
+  ],
+  [
+   "saves",
+   4.92,
+   5.2
+  ],
+  [
+   "it.",
+   5.28,
+   5.6
+  ]
+ ],
+ "hash": "9609bacaac29"
+}

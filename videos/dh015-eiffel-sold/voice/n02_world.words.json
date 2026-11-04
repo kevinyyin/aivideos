@@ -1,0 +1,80 @@
+{
+ "text": "You see, the tower was rusting, and lots of Parisians wanted it gone.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "You",
+   0.0,
+   0.16
+  ],
+  [
+   "see,",
+   0.24,
+   0.72
+  ],
+  [
+   "the",
+   0.8,
+   0.88
+  ],
+  [
+   "tower",
+   1.08,
+   1.28
+  ],
+  [
+   "was",
+   1.4,
+   1.52
+  ],
+  [
+   "rusting,",
+   1.6,
+   2.32
+  ],
+  [
+   "and",
+   2.4,
+   2.56
+  ],
+  [
+   "lots",
+   2.64,
+   2.96
+  ],
+  [
+   "of",
+   3.0,
+   3.04
+  ],
+  [
+   "Parisians",
+   3.12,
+   3.68
+  ],
+  [
+   "wanted",
+   3.8,
+   3.92
+  ],
+  [
+   "it",
+   4.0,
+   4.08
+  ],
+  [
+   "gone.",
+   4.16,
+   4.8
+  ]
+ ],
+ "hash": "37dba5097ed5"
+}

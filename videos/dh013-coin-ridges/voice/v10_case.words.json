@@ -1,0 +1,80 @@
+{
+ "text": "So Newton spent two more years in disguise, one informant at a time.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "So",
+   0.0,
+   0.24
+  ],
+  [
+   "Newton",
+   0.32,
+   0.64
+  ],
+  [
+   "spent",
+   0.84,
+   1.04
+  ],
+  [
+   "two",
+   1.16,
+   1.28
+  ],
+  [
+   "more",
+   1.36,
+   1.52
+  ],
+  [
+   "years",
+   1.6,
+   1.84
+  ],
+  [
+   "in",
+   1.92,
+   1.96
+  ],
+  [
+   "disguise,",
+   2.0,
+   3.12
+  ],
+  [
+   "one",
+   3.2,
+   3.36
+  ],
+  [
+   "informant",
+   3.56,
+   3.92
+  ],
+  [
+   "at",
+   4.0,
+   4.08
+  ],
+  [
+   "a",
+   4.107,
+   4.133
+  ],
+  [
+   "time.",
+   4.16,
+   4.88
+  ]
+ ],
+ "hash": "e65f9b472b43"
+}

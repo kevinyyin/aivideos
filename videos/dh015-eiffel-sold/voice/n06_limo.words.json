@@ -1,0 +1,75 @@
+{
+ "text": "Then he gave them a limousine tour, hunting for the hungriest buyer.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "Then",
+   0.0,
+   0.24
+  ],
+  [
+   "he",
+   0.28,
+   0.32
+  ],
+  [
+   "gave",
+   0.36,
+   0.56
+  ],
+  [
+   "them",
+   0.64,
+   0.72
+  ],
+  [
+   "a",
+   0.76,
+   0.8
+  ],
+  [
+   "limousine",
+   0.88,
+   1.28
+  ],
+  [
+   "tour,",
+   1.36,
+   2.0
+  ],
+  [
+   "hunting",
+   2.04,
+   2.4
+  ],
+  [
+   "for",
+   2.48,
+   2.56
+  ],
+  [
+   "the",
+   2.64,
+   2.72
+  ],
+  [
+   "hungriest",
+   2.88,
+   3.36
+  ],
+  [
+   "buyer.",
+   3.44,
+   4.08
+  ]
+ ],
+ "hash": "0c7fb1b49bcb"
+}

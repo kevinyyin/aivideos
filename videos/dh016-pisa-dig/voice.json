@@ -1,0 +1,85 @@
+{
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "speed": 1.1,
+  "stability": 0.4,
+  "similarity": 0.75,
+  "style": 0.2
+ },
+ "lines": [
+  {
+   "id": "n01_hook",
+   "text": "In 1999, engineers started digging the dirt out from under the Leaning Tower of Pisa, to stop it falling over."
+  },
+  {
+   "id": "n02_stakes",
+   "text": "You see, one wrong scoop, and fourteen thousand tonnes come down."
+  },
+  {
+   "id": "n03_1178",
+   "text": "It starts sinking in 1178, on a foundation three meters deep in soft clay."
+  },
+  {
+   "id": "n04_war",
+   "text": "Then war stops the work for almost a century. The clay settles, and that saves it."
+  },
+  {
+   "id": "n05_1934",
+   "text": "In 1934, Mussolini's engineers pump in cement. It lurches the wrong way."
+  },
+  {
+   "id": "n06_1990",
+   "text": "By 1990, it leans five and a half degrees, and Italy shuts it."
+  },
+  {
+   "id": "n07_lead",
+   "text": "So they stack six hundred tonnes of lead on the high side."
+  },
+  {
+   "id": "n08_freeze",
+   "text": "In 1995, they freeze the ground to swap the lead for anchors."
+  },
+  {
+   "id": "n09_night",
+   "text": "One September night, it lurches more than it had all year."
+  },
+  {
+   "id": "n10_mayor",
+   "text": "Pisa's mayor says \"a plumber with a toilet jack\" would've done better."
+  },
+  {
+   "id": "n11_tomatoes",
+   "text": "Locals pelt the engineers' cars with tomatoes."
+  },
+  {
+   "id": "n12_question",
+   "text": "So how do you save a falling tower by taking the ground away?"
+  },
+  {
+   "id": "n13_reveal",
+   "text": "You see, the low side is so soft that one touch could topple it.",
+   "reveal": true
+  },
+  {
+   "id": "n14_drill",
+   "text": "So they drill under the high side, pulling dirt out a bucket at a time."
+  },
+  {
+   "id": "n15_table",
+   "text": "It's like fixing your wobbly table by trimming the long leg."
+  },
+  {
+   "id": "n16_numbers",
+   "text": "Thirty-eight cubic meters later, the top has swung back forty-five centimeters."
+  },
+  {
+   "id": "n17_stop",
+   "text": "Then they stop on purpose after half a degree, too little to notice."
+  },
+  {
+   "id": "n18_payoff",
+   "text": "Bookies took bets it wouldn't see this century. Now it's safe for at least two hundred years."
+  }
+ ]
+}

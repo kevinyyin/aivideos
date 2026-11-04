@@ -1,0 +1,81 @@
+{
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "speed": 1.1,
+  "stability": 0.4,
+  "similarity": 0.75,
+  "style": 0.2
+ },
+ "lines": [
+  {
+   "id": "v01_hook",
+   "text": "Isaac Newton put on a disguise and spent his nights in London's roughest taverns, hunting a forger."
+  },
+  {
+   "id": "v02_mock",
+   "text": "The forger, William Chaloner, had stood up in Parliament and mocked him as incompetent."
+  },
+  {
+   "id": "v03_silver",
+   "text": "You see, coins were real silver, so people shaved the edges and spent them at full value."
+  },
+  {
+   "id": "v04_chain",
+   "text": "The baker clipped it. The tailor clipped it. By the tavern, it was the size of a button."
+  },
+  {
+   "id": "v05_half",
+   "text": "By 1695, a bag of silver money weighed barely half what it should."
+  },
+  {
+   "id": "v06_mess",
+   "text": "So in 1696, England handed the whole mess to Newton."
+  },
+  {
+   "id": "v07_ask",
+   "text": "But how do you stop a thief who only takes a sliver?"
+  },
+  {
+   "id": "v08_jail",
+   "text": "Newton went after the biggest crook first. By 1697, Chaloner was in jail."
+  },
+  {
+   "id": "v09_free",
+   "text": "Then Chaloner paid the star witness to flee to Scotland, and walked free."
+  },
+  {
+   "id": "v10_case",
+   "text": "So Newton spent two more years in disguise, one informant at a time."
+  },
+  {
+   "id": "v11_guilty",
+   "text": "In 1699, the jury took minutes. Guilty of high treason."
+  },
+  {
+   "id": "v12_ridges",
+   "text": "You see, his Mint melted the old money down and struck new coins by machine, with ridges all around the edge.",
+   "reveal": true
+  },
+  {
+   "id": "v13_vanish",
+   "text": "Shave a ridged coin, and the ridges vanish. Everyone can tell."
+  },
+  {
+   "id": "v14_jar",
+   "text": "It's the seal on a new jar. You can't sneak a scoop without breaking it."
+  },
+  {
+   "id": "v15_today",
+   "text": "Today, an American quarter has no silver at all. Not since 1965."
+  },
+  {
+   "id": "v16_still",
+   "text": "Yet it still has a hundred and nineteen ridges."
+  },
+  {
+   "id": "v17_lock",
+   "text": "Newton's lock never came off. There's just nothing inside worth stealing."
+  }
+ ]
+}

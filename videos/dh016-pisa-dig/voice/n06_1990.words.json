@@ -1,0 +1,80 @@
+{
+ "text": "By 1990, it leans five and a half degrees, and Italy shuts it.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "By",
+   0.0,
+   0.16
+  ],
+  [
+   "1990,",
+   0.24,
+   1.36
+  ],
+  [
+   "it",
+   1.44,
+   1.52
+  ],
+  [
+   "leans",
+   1.68,
+   1.84
+  ],
+  [
+   "five",
+   1.92,
+   2.08
+  ],
+  [
+   "and",
+   2.16,
+   2.24
+  ],
+  [
+   "a",
+   2.28,
+   2.32
+  ],
+  [
+   "half",
+   2.44,
+   2.56
+  ],
+  [
+   "degrees,",
+   2.64,
+   3.36
+  ],
+  [
+   "and",
+   3.48,
+   3.6
+  ],
+  [
+   "Italy",
+   3.68,
+   4.0
+  ],
+  [
+   "shuts",
+   4.16,
+   4.4
+  ],
+  [
+   "it.",
+   4.48,
+   4.88
+  ]
+ ],
+ "hash": "20ef9503dc4a"
+}

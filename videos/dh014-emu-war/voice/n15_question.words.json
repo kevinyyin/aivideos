@@ -1,0 +1,65 @@
+{
+ "text": "So how do you lose a war to a bird?",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "So",
+   0.0,
+   0.24
+  ],
+  [
+   "how",
+   0.56,
+   0.64
+  ],
+  [
+   "do",
+   0.72,
+   0.76
+  ],
+  [
+   "you",
+   0.8,
+   0.96
+  ],
+  [
+   "lose",
+   1.08,
+   1.2
+  ],
+  [
+   "a",
+   1.24,
+   1.28
+  ],
+  [
+   "war",
+   1.44,
+   1.76
+  ],
+  [
+   "to",
+   1.84,
+   1.92
+  ],
+  [
+   "a",
+   1.96,
+   2.0
+  ],
+  [
+   "bird?",
+   2.16,
+   2.88
+  ]
+ ],
+ "hash": "b2cef6af19d9"
+}

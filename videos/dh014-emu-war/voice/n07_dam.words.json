@@ -1,0 +1,70 @@
+{
+ "text": "Two days later, a thousand emus walk straight toward the guns.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "Two",
+   0.0,
+   0.24
+  ],
+  [
+   "days",
+   0.36,
+   0.48
+  ],
+  [
+   "later,",
+   0.56,
+   1.2
+  ],
+  [
+   "a",
+   1.28,
+   1.44
+  ],
+  [
+   "thousand",
+   1.52,
+   1.92
+  ],
+  [
+   "emus",
+   2.08,
+   2.48
+  ],
+  [
+   "walk",
+   2.64,
+   2.8
+  ],
+  [
+   "straight",
+   3.0,
+   3.2
+  ],
+  [
+   "toward",
+   3.24,
+   3.44
+  ],
+  [
+   "the",
+   3.48,
+   3.52
+  ],
+  [
+   "guns.",
+   3.6,
+   4.4
+  ]
+ ],
+ "hash": "6456a9d16aea"
+}

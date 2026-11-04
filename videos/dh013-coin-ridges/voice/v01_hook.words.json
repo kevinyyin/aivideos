@@ -1,0 +1,100 @@
+{
+ "text": "Isaac Newton put on a disguise and spent his nights in London's roughest taverns, hunting a forger.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "Isaac",
+   0.0,
+   0.4
+  ],
+  [
+   "Newton",
+   0.48,
+   0.88
+  ],
+  [
+   "put",
+   0.96,
+   1.04
+  ],
+  [
+   "on",
+   1.08,
+   1.12
+  ],
+  [
+   "a",
+   1.2,
+   1.24
+  ],
+  [
+   "disguise",
+   1.28,
+   2.0
+  ],
+  [
+   "and",
+   2.08,
+   2.24
+  ],
+  [
+   "spent",
+   2.36,
+   2.48
+  ],
+  [
+   "his",
+   2.56,
+   2.64
+  ],
+  [
+   "nights",
+   2.72,
+   2.96
+  ],
+  [
+   "in",
+   3.04,
+   3.12
+  ],
+  [
+   "London's",
+   3.2,
+   3.68
+  ],
+  [
+   "roughest",
+   3.76,
+   4.08
+  ],
+  [
+   "taverns,",
+   4.12,
+   4.96
+  ],
+  [
+   "hunting",
+   5.04,
+   5.36
+  ],
+  [
+   "a",
+   5.4,
+   5.44
+  ],
+  [
+   "forger.",
+   5.52,
+   6.32
+  ]
+ ],
+ "hash": "e59fefb0d269"
+}

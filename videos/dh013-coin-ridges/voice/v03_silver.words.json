@@ -1,0 +1,100 @@
+{
+ "text": "You see, coins were real silver, so people shaved the edges and spent them at full value.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "You",
+   0.0,
+   0.16
+  ],
+  [
+   "see,",
+   0.24,
+   0.64
+  ],
+  [
+   "coins",
+   0.72,
+   1.12
+  ],
+  [
+   "were",
+   1.24,
+   1.36
+  ],
+  [
+   "real",
+   1.52,
+   1.68
+  ],
+  [
+   "silver,",
+   1.76,
+   2.48
+  ],
+  [
+   "so",
+   2.56,
+   2.64
+  ],
+  [
+   "people",
+   2.72,
+   3.04
+  ],
+  [
+   "shaved",
+   3.08,
+   3.36
+  ],
+  [
+   "the",
+   3.4,
+   3.44
+  ],
+  [
+   "edges",
+   3.52,
+   3.92
+  ],
+  [
+   "and",
+   4.0,
+   4.16
+  ],
+  [
+   "spent",
+   4.32,
+   4.48
+  ],
+  [
+   "them",
+   4.56,
+   4.64
+  ],
+  [
+   "at",
+   4.68,
+   4.72
+  ],
+  [
+   "full",
+   4.88,
+   5.04
+  ],
+  [
+   "value.",
+   5.12,
+   5.84
+  ]
+ ],
+ "hash": "187dbb9ea952"
+}

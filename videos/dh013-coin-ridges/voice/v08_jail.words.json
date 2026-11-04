@@ -1,0 +1,80 @@
+{
+ "text": "Newton went after the biggest crook first. By 1697, Chaloner was in jail.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "Newton",
+   0.0,
+   0.4
+  ],
+  [
+   "went",
+   0.48,
+   0.56
+  ],
+  [
+   "after",
+   0.64,
+   0.8
+  ],
+  [
+   "the",
+   0.92,
+   1.04
+  ],
+  [
+   "biggest",
+   1.12,
+   1.36
+  ],
+  [
+   "crook",
+   1.44,
+   1.68
+  ],
+  [
+   "first.",
+   1.92,
+   2.64
+  ],
+  [
+   "By",
+   2.76,
+   2.88
+  ],
+  [
+   "1697,",
+   3.0,
+   4.4
+  ],
+  [
+   "Chaloner",
+   4.48,
+   4.88
+  ],
+  [
+   "was",
+   4.96,
+   5.04
+  ],
+  [
+   "in",
+   5.12,
+   5.2
+  ],
+  [
+   "jail.",
+   5.28,
+   5.92
+  ]
+ ],
+ "hash": "230e86e2d861"
+}

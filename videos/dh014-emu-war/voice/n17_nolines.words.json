@@ -1,0 +1,35 @@
+{
+ "text": "Emus don't do lines.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "Emus",
+   0.0,
+   0.48
+  ],
+  [
+   "don't",
+   0.64,
+   0.88
+  ],
+  [
+   "do",
+   0.96,
+   1.04
+  ],
+  [
+   "lines.",
+   1.12,
+   1.92
+  ]
+ ],
+ "hash": "c4fcdbf55cf9"
+}

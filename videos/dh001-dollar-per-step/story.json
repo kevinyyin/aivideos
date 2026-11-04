@@ -1,0 +1,70 @@
+{
+  "tone": "funny",
+  "look": {
+    "exposure": 1.05,
+    "fill": 0.45,
+    "vignette": 0.26,
+    "bloom": 0.22,
+    "bloomThreshold": 0.92
+  },
+  "fps": 30,
+  "duration": 68.9,
+  "title": {
+    "html": "What if you earned <em>$1</em> for every step you took?",
+    "in": -0.4,
+    "out": 3.4
+  },
+  "subs": [
+    [3.6, 5.9, "7:02 AM. Every phone on Earth buzzes."],
+    [8.3, 10.0, "Walt takes one step."],
+    [10.6, 13.0, "Then 300 more. Before breakfast."],
+    [13.5, 15.9, "+1 hour. Nobody sits down at work anymore."],
+    [16.1, 18.2, "The meeting is 200 laps long."],
+    [18.7, 20.6, "+2 hours. The subway still runs."],
+    [20.9, 23.3, "Nobody sits. Everybody marches."],
+    [23.9, 26.1, "+1 day. Car sales drop to zero."],
+    [26.3, 28.6, "Honest Bob can't even give them away."],
+    [29.0, 31.5, "+1 week. Your mail carrier is a millionaire."],
+    [31.7, 33.8, "The dogs are still not impressed."],
+    [34.2, 36.7, "+1 month. Tiny steps pay like big ones."],
+    [36.9, 39.0, "The marathon now takes three days."],
+    [39.4, 41.8, "+3 months. Everyone's rich. So prices go up."],
+    [42.0, 44.2, "Bread: $40 a loaf."],
+    [44.6, 47.3, "+6 months. Even Uncle Ron gets off the couch."],
+    [47.5, 49.4, "His first steps since 2019."],
+    [49.8, 51.9, "+1 year. Everyone's a millionaire."],
+    [52.1, 54.8, "A loaf of bread costs $4,000."],
+    [55.2, 57.3, "So Walt stops counting the money."],
+    [57.5, 59.5, "He counts something else."],
+    [59.8, 61.7, "6,212 steps to his mom's door."],
+    [61.9, 64.3, "Some steps are worth more than a dollar."]
+  ],
+  "hudLabel": "WALT'S BALANCE",
+  "hudPrefix": "$",
+  "hud": [
+    { "t0": 0.0, "t1": 9.275, "from": 0, "to": 0, "time": "MONDAY · 7:02 AM", "age": "THE AVERAGE AMERICAN · 4,774 STEPS A DAY" },
+    { "t0": 9.275, "t1": 10.475, "from": 0, "to": 1, "r0": 9.275, "r1": 9.33, "time": "MONDAY · 7:02 AM", "age": "THE AVERAGE AMERICAN · 4,774 STEPS A DAY" },
+    { "t0": 10.475, "t1": 10.9, "from": 1, "to": 2, "r0": 10.475, "r1": 10.53, "time": "MONDAY · 7:02 AM", "age": "THE AVERAGE AMERICAN · 4,774 STEPS A DAY" },
+    { "t0": 10.9, "t1": 13.2, "from": 2, "to": 302, "r0": 10.9, "r1": 13.2, "time": "MONDAY · 7:03 AM", "age": "THE AVERAGE AMERICAN · 4,774 STEPS A DAY" },
+    { "t0": 13.2, "t1": 18.4, "from": 302, "to": 2410, "r0": 13.4, "r1": 18.2, "time": "+1 HOUR", "age": "THE 10,000-STEP GOAL · A 1965 PEDOMETER AD" },
+    { "t0": 18.4, "t1": 23.6, "from": 2410, "to": 4980, "r0": 18.6, "r1": 23.4, "time": "+2 HOURS", "age": "1 MILE ≈ 2,000 STEPS ≈ $2,000" },
+    { "t0": 23.6, "t1": 28.8, "from": 4980, "to": 21600, "r0": 23.8, "r1": 28.6, "time": "+1 DAY", "age": "AMERICANS WHO WALK TO WORK · UNDER 3%" },
+    { "t0": 28.8, "t1": 34.0, "from": 21600, "to": 152300, "r0": 29.0, "r1": 33.8, "time": "+1 WEEK", "age": "A MAIL CARRIER · UP TO 25,000 STEPS A DAY" },
+    { "t0": 34.0, "t1": 39.2, "from": 152300, "to": 655000, "r0": 34.2, "r1": 39.0, "time": "+1 MONTH", "age": "A MARATHON ≈ 50,000 STEPS · TIPTOED ≈ 211,000" },
+    { "t0": 39.2, "t1": 44.4, "from": 655000, "to": 1970000, "r0": 39.4, "r1": 44.2, "time": "+3 MONTHS", "age": "BREAD, SEPT 2026 · $1.83 A POUND (BLS)" },
+    { "t0": 44.4, "t1": 49.6, "from": 1970000, "to": 3940000, "r0": 44.6, "r1": 49.4, "time": "+6 MONTHS", "age": "U.S. ADULTS WHO GET ENOUGH EXERCISE · 23%" },
+    { "t0": 49.6, "t1": 55.0, "from": 3940000, "to": 7884000, "r0": 49.8, "r1": 54.8, "time": "+1 YEAR", "age": "GERMANY, 1923 · BREAD HIT 200 BILLION MARKS" },
+    { "t0": 55.0, "t1": 68.9, "from": 7884000, "to": 7890212, "r0": 55.2, "r1": 61.2, "time": "+1 YEAR · SUNDAY", "age": "STEPS TO MOM'S DOOR · 6,212", "ageGoldAt": 62.3 }
+  ],
+  "end": {
+    "in": 64.9,
+    "html": "Who would you <em>walk</em> to first?",
+    "small": "TELL US BELOW"
+  },
+  "dips": [],
+  "finalFade": [64.3, 64.9],
+  "debugView": {
+    "center": [0, 0, 0],
+    "height": 12
+  }
+}

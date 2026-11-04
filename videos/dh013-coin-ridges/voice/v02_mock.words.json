@@ -1,0 +1,85 @@
+{
+ "text": "The forger, William Chaloner, had stood up in Parliament and mocked him as incompetent.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "The",
+   0.0,
+   0.16
+  ],
+  [
+   "forger,",
+   0.24,
+   0.96
+  ],
+  [
+   "William",
+   1.04,
+   1.28
+  ],
+  [
+   "Chaloner,",
+   1.44,
+   2.24
+  ],
+  [
+   "had",
+   2.32,
+   2.48
+  ],
+  [
+   "stood",
+   2.56,
+   2.8
+  ],
+  [
+   "up",
+   2.84,
+   2.88
+  ],
+  [
+   "in",
+   2.96,
+   3.12
+  ],
+  [
+   "Parliament",
+   3.24,
+   3.68
+  ],
+  [
+   "and",
+   3.76,
+   3.92
+  ],
+  [
+   "mocked",
+   4.08,
+   4.32
+  ],
+  [
+   "him",
+   4.4,
+   4.48
+  ],
+  [
+   "as",
+   4.56,
+   4.64
+  ],
+  [
+   "incompetent.",
+   4.72,
+   5.76
+  ]
+ ],
+ "hash": "d31da9a274c0"
+}

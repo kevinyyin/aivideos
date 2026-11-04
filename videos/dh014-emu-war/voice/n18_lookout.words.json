@@ -1,0 +1,85 @@
+{
+ "text": "They split into tiny groups, and every group has one tall bird on lookout.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "They",
+   0.0,
+   0.16
+  ],
+  [
+   "split",
+   0.24,
+   0.48
+  ],
+  [
+   "into",
+   0.56,
+   0.8
+  ],
+  [
+   "tiny",
+   0.96,
+   1.12
+  ],
+  [
+   "groups,",
+   1.2,
+   1.84
+  ],
+  [
+   "and",
+   1.92,
+   2.08
+  ],
+  [
+   "every",
+   2.16,
+   2.4
+  ],
+  [
+   "group",
+   2.48,
+   2.72
+  ],
+  [
+   "has",
+   2.8,
+   3.04
+  ],
+  [
+   "one",
+   3.12,
+   3.28
+  ],
+  [
+   "tall",
+   3.36,
+   3.6
+  ],
+  [
+   "bird",
+   3.68,
+   3.92
+  ],
+  [
+   "on",
+   4.0,
+   4.08
+  ],
+  [
+   "lookout.",
+   4.16,
+   4.88
+  ]
+ ],
+ "hash": "539a84d62490"
+}

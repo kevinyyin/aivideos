@@ -1,0 +1,60 @@
+{
+ "text": "So Lustig came back to sell the tower again.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "So",
+   0.0,
+   0.24
+  ],
+  [
+   "Lustig",
+   0.32,
+   0.72
+  ],
+  [
+   "came",
+   0.8,
+   1.04
+  ],
+  [
+   "back",
+   1.12,
+   1.36
+  ],
+  [
+   "to",
+   1.44,
+   1.6
+  ],
+  [
+   "sell",
+   1.68,
+   1.76
+  ],
+  [
+   "the",
+   1.8,
+   1.84
+  ],
+  [
+   "tower",
+   1.92,
+   2.24
+  ],
+  [
+   "again.",
+   2.48,
+   3.04
+  ]
+ ],
+ "hash": "bb45a38a52e9"
+}

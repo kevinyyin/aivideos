@@ -1,0 +1,50 @@
+{
+ "text": "Locals pelt the engineers' cars with tomatoes.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "Locals",
+   0.0,
+   0.56
+  ],
+  [
+   "pelt",
+   0.64,
+   0.88
+  ],
+  [
+   "the",
+   0.96,
+   1.04
+  ],
+  [
+   "engineers'",
+   1.2,
+   1.6
+  ],
+  [
+   "cars",
+   1.8,
+   2.0
+  ],
+  [
+   "with",
+   2.08,
+   2.16
+  ],
+  [
+   "tomatoes.",
+   2.28,
+   3.2
+  ]
+ ],
+ "hash": "3d16e868b4bd"
+}

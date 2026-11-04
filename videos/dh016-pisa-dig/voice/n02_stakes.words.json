@@ -1,0 +1,70 @@
+{
+ "text": "You see, one wrong scoop, and fourteen thousand tonnes come down.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "You",
+   0.0,
+   0.16
+  ],
+  [
+   "see,",
+   0.24,
+   0.8
+  ],
+  [
+   "one",
+   0.96,
+   1.12
+  ],
+  [
+   "wrong",
+   1.28,
+   1.44
+  ],
+  [
+   "scoop,",
+   1.52,
+   2.16
+  ],
+  [
+   "and",
+   2.28,
+   2.4
+  ],
+  [
+   "fourteen",
+   2.56,
+   2.88
+  ],
+  [
+   "thousand",
+   3.2,
+   3.6
+  ],
+  [
+   "tonnes",
+   3.76,
+   4.08
+  ],
+  [
+   "come",
+   4.16,
+   4.32
+  ],
+  [
+   "down.",
+   4.4,
+   4.96
+  ]
+ ],
+ "hash": "e9b65d8c709b"
+}

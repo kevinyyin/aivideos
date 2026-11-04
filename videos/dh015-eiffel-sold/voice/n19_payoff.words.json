@@ -1,0 +1,105 @@
+{
+ "text": "The man who sold the Eiffel Tower? His death certificate lists his job as \"apprentice salesman and counterfeiter.\"",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "The",
+   0.0,
+   0.16
+  ],
+  [
+   "man",
+   0.24,
+   0.4
+  ],
+  [
+   "who",
+   0.48,
+   0.64
+  ],
+  [
+   "sold",
+   0.76,
+   0.88
+  ],
+  [
+   "the",
+   0.92,
+   0.96
+  ],
+  [
+   "Eiffel",
+   1.04,
+   1.28
+  ],
+  [
+   "Tower?",
+   1.36,
+   1.76
+  ],
+  [
+   "His",
+   2.32,
+   2.56
+  ],
+  [
+   "death",
+   2.68,
+   2.8
+  ],
+  [
+   "certificate",
+   2.88,
+   3.44
+  ],
+  [
+   "lists",
+   3.52,
+   3.76
+  ],
+  [
+   "his",
+   3.84,
+   3.92
+  ],
+  [
+   "job",
+   4.0,
+   4.24
+  ],
+  [
+   "as",
+   4.32,
+   4.48
+  ],
+  [
+   "\"apprentice",
+   4.8,
+   5.36
+  ],
+  [
+   "salesman",
+   5.44,
+   6.0
+  ],
+  [
+   "and",
+   6.08,
+   6.16
+  ],
+  [
+   "counterfeiter.\"",
+   6.24,
+   7.2
+  ]
+ ],
+ "hash": "f759d05b0c72"
+}

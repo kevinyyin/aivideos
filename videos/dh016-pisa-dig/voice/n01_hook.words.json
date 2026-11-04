@@ -1,0 +1,115 @@
+{
+ "text": "In 1999, engineers started digging the dirt out from under the Leaning Tower of Pisa, to stop it falling over.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "In",
+   0.0,
+   0.16
+  ],
+  [
+   "1999,",
+   0.24,
+   1.6
+  ],
+  [
+   "engineers",
+   1.68,
+   2.24
+  ],
+  [
+   "started",
+   2.44,
+   2.64
+  ],
+  [
+   "digging",
+   2.72,
+   2.96
+  ],
+  [
+   "the",
+   3.04,
+   3.12
+  ],
+  [
+   "dirt",
+   3.16,
+   3.36
+  ],
+  [
+   "out",
+   3.44,
+   3.6
+  ],
+  [
+   "from",
+   3.72,
+   3.84
+  ],
+  [
+   "under",
+   3.92,
+   4.08
+  ],
+  [
+   "the",
+   4.16,
+   4.24
+  ],
+  [
+   "Leaning",
+   4.32,
+   4.56
+  ],
+  [
+   "Tower",
+   4.64,
+   4.88
+  ],
+  [
+   "of",
+   4.96,
+   5.04
+  ],
+  [
+   "Pisa,",
+   5.12,
+   5.76
+  ],
+  [
+   "to",
+   5.84,
+   5.92
+  ],
+  [
+   "stop",
+   6.0,
+   6.16
+  ],
+  [
+   "it",
+   6.24,
+   6.32
+  ],
+  [
+   "falling",
+   6.4,
+   6.64
+  ],
+  [
+   "over.",
+   6.72,
+   7.28
+  ]
+ ],
+ "hash": "5ef1cc2b550c"
+}

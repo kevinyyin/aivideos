@@ -1,0 +1,65 @@
+{
+ "text": "So in 1696, England handed the whole mess to Newton.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "So",
+   0.0,
+   0.24
+  ],
+  [
+   "in",
+   0.48,
+   0.64
+  ],
+  [
+   "1696,",
+   0.76,
+   2.16
+  ],
+  [
+   "England",
+   2.24,
+   2.56
+  ],
+  [
+   "handed",
+   2.64,
+   2.88
+  ],
+  [
+   "the",
+   2.96,
+   3.04
+  ],
+  [
+   "whole",
+   3.2,
+   3.44
+  ],
+  [
+   "mess",
+   3.56,
+   3.68
+  ],
+  [
+   "to",
+   3.76,
+   3.84
+  ],
+  [
+   "Newton.",
+   3.92,
+   4.56
+  ]
+ ],
+ "hash": "a14eefb5fbb5"
+}

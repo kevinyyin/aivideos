@@ -1,0 +1,110 @@
+{
+ "text": "In 1925, a con man sold the Eiffel Tower, all seven thousand tons of it, to a scrap dealer.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "In",
+   0.0,
+   0.16
+  ],
+  [
+   "1925,",
+   0.24,
+   1.68
+  ],
+  [
+   "a",
+   1.76,
+   1.92
+  ],
+  [
+   "con",
+   2.08,
+   2.24
+  ],
+  [
+   "man",
+   2.32,
+   2.56
+  ],
+  [
+   "sold",
+   2.64,
+   2.88
+  ],
+  [
+   "the",
+   2.92,
+   2.96
+  ],
+  [
+   "Eiffel",
+   3.04,
+   3.36
+  ],
+  [
+   "Tower,",
+   3.44,
+   4.24
+  ],
+  [
+   "all",
+   4.32,
+   4.56
+  ],
+  [
+   "seven",
+   4.72,
+   4.96
+  ],
+  [
+   "thousand",
+   5.12,
+   5.44
+  ],
+  [
+   "tons",
+   5.6,
+   5.92
+  ],
+  [
+   "of",
+   6.0,
+   6.08
+  ],
+  [
+   "it,",
+   6.16,
+   6.48
+  ],
+  [
+   "to",
+   6.56,
+   6.64
+  ],
+  [
+   "a",
+   6.68,
+   6.72
+  ],
+  [
+   "scrap",
+   6.8,
+   7.12
+  ],
+  [
+   "dealer.",
+   7.2,
+   7.76
+  ]
+ ],
+ "hash": "cd206d9ce13f"
+}

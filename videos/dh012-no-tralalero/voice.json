@@ -1,0 +1,10 @@
+{
+ "voice": "TX3LPaxmHKxFdv7VOQHJ",
+ "settings": {"speed": 1.15, "stability": 0.35, "similarity": 0.75, "style": 0.45},
+ "lines": [
+  {"id": "l01_beach", "text": "Tralalero tralala!"},
+  {"id": "l02_chant_a", "text": "TRALALERO TRALALA!", "voice": "iP95p4xoKVk53GoZ742B", "settings": {"speed": 1.1, "stability": 0.3, "style": 0.6}},
+  {"id": "l03_chant_b", "text": "TRALALERO TRALALA!", "voice": "cjVigY5qzO86Huf0OWal", "settings": {"speed": 1.1, "stability": 0.3, "style": 0.6}},
+  {"id": "l04_reef", "text": "Tralalero... tralala?", "voice": "bIHbv24MWmeRgasZH58o", "settings": {"speed": 1.0, "stability": 0.45, "style": 0.3}}
+ ]
+}

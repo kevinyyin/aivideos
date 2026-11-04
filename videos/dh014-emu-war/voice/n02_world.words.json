@@ -1,0 +1,65 @@
+{
+ "text": "You see, twenty thousand emus were eating the farmers' wheat.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "You",
+   0.0,
+   0.16
+  ],
+  [
+   "see,",
+   0.28,
+   0.72
+  ],
+  [
+   "twenty",
+   0.88,
+   1.04
+  ],
+  [
+   "thousand",
+   1.28,
+   1.68
+  ],
+  [
+   "emus",
+   1.84,
+   2.32
+  ],
+  [
+   "were",
+   2.44,
+   2.56
+  ],
+  [
+   "eating",
+   2.64,
+   2.88
+  ],
+  [
+   "the",
+   2.92,
+   2.96
+  ],
+  [
+   "farmers'",
+   3.04,
+   3.44
+  ],
+  [
+   "wheat.",
+   3.48,
+   4.08
+  ]
+ ],
+ "hash": "01dd6f959a60"
+}

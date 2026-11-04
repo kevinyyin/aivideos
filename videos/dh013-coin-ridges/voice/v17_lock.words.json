@@ -1,0 +1,70 @@
+{
+ "text": "Newton's lock never came off. There's just nothing inside worth stealing.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "Newton's",
+   0.0,
+   0.48
+  ],
+  [
+   "lock",
+   0.56,
+   0.88
+  ],
+  [
+   "never",
+   1.04,
+   1.28
+  ],
+  [
+   "came",
+   1.36,
+   1.52
+  ],
+  [
+   "off.",
+   1.6,
+   2.12
+  ],
+  [
+   "There's",
+   2.32,
+   2.48
+  ],
+  [
+   "just",
+   2.56,
+   2.72
+  ],
+  [
+   "nothing",
+   2.88,
+   3.2
+  ],
+  [
+   "inside",
+   3.4,
+   3.6
+  ],
+  [
+   "worth",
+   3.68,
+   3.84
+  ],
+  [
+   "stealing.",
+   3.92,
+   4.72
+  ]
+ ],
+ "hash": "a7fe5d3876f0"
+}

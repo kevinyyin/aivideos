@@ -1,0 +1,60 @@
+{
+ "text": "And Poisson was too embarrassed to call the police.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "And",
+   0.0,
+   0.16
+  ],
+  [
+   "Poisson",
+   0.2,
+   0.64
+  ],
+  [
+   "was",
+   0.72,
+   0.96
+  ],
+  [
+   "too",
+   1.04,
+   1.2
+  ],
+  [
+   "embarrassed",
+   1.32,
+   1.8
+  ],
+  [
+   "to",
+   1.84,
+   1.92
+  ],
+  [
+   "call",
+   2.0,
+   2.08
+  ],
+  [
+   "the",
+   2.16,
+   2.24
+  ],
+  [
+   "police.",
+   2.32,
+   3.12
+  ]
+ ],
+ "hash": "34978e01c3d9"
+}

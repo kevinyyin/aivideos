@@ -1,0 +1,65 @@
+{
+ "text": "In 1699, the jury took minutes. Guilty of high treason.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "In",
+   0.0,
+   0.24
+  ],
+  [
+   "1699,",
+   0.36,
+   1.76
+  ],
+  [
+   "the",
+   1.84,
+   1.92
+  ],
+  [
+   "jury",
+   2.08,
+   2.24
+  ],
+  [
+   "took",
+   2.36,
+   2.48
+  ],
+  [
+   "minutes.",
+   2.64,
+   3.4
+  ],
+  [
+   "Guilty",
+   3.68,
+   4.08
+  ],
+  [
+   "of",
+   4.4,
+   4.48
+  ],
+  [
+   "high",
+   4.56,
+   4.8
+  ],
+  [
+   "treason.",
+   4.88,
+   5.68
+  ]
+ ],
+ "hash": "73a48d5b09a9"
+}

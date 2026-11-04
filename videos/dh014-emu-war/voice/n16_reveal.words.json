@@ -1,0 +1,85 @@
+{
+ "text": "You see, a machine gun is built for an army standing in a line.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "You",
+   0.0,
+   0.16
+  ],
+  [
+   "see,",
+   0.24,
+   0.72
+  ],
+  [
+   "a",
+   0.76,
+   0.8
+  ],
+  [
+   "machine",
+   0.88,
+   1.28
+  ],
+  [
+   "gun",
+   1.36,
+   1.52
+  ],
+  [
+   "is",
+   1.6,
+   1.76
+  ],
+  [
+   "built",
+   1.84,
+   1.92
+  ],
+  [
+   "for",
+   2.0,
+   2.08
+  ],
+  [
+   "an",
+   2.16,
+   2.32
+  ],
+  [
+   "army",
+   2.4,
+   2.8
+  ],
+  [
+   "standing",
+   2.96,
+   3.12
+  ],
+  [
+   "in",
+   3.2,
+   3.24
+  ],
+  [
+   "a",
+   3.28,
+   3.32
+  ],
+  [
+   "line.",
+   3.36,
+   4.0
+  ]
+ ],
+ "hash": "166f38bc101e"
+}

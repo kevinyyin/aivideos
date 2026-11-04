@@ -1,0 +1,85 @@
+{
+ "text": "But the truck can't keep up, and the ride is too bumpy to aim.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "But",
+   0.0,
+   0.16
+  ],
+  [
+   "the",
+   0.24,
+   0.32
+  ],
+  [
+   "truck",
+   0.48,
+   0.64
+  ],
+  [
+   "can't",
+   0.72,
+   0.88
+  ],
+  [
+   "keep",
+   0.96,
+   1.12
+  ],
+  [
+   "up,",
+   1.28,
+   1.68
+  ],
+  [
+   "and",
+   1.72,
+   1.76
+  ],
+  [
+   "the",
+   1.84,
+   1.92
+  ],
+  [
+   "ride",
+   2.0,
+   2.24
+  ],
+  [
+   "is",
+   2.36,
+   2.48
+  ],
+  [
+   "too",
+   2.6,
+   2.72
+  ],
+  [
+   "bumpy",
+   2.8,
+   3.12
+  ],
+  [
+   "to",
+   3.2,
+   3.28
+  ],
+  [
+   "aim.",
+   3.36,
+   4.0
+  ]
+ ],
+ "hash": "9a32aa1ac863"
+}

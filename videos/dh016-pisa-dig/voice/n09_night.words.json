@@ -1,0 +1,70 @@
+{
+ "text": "One September night, it lurches more than it had all year.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "One",
+   0.0,
+   0.24
+  ],
+  [
+   "September",
+   0.48,
+   0.72
+  ],
+  [
+   "night,",
+   0.8,
+   1.44
+  ],
+  [
+   "it",
+   1.52,
+   1.6
+  ],
+  [
+   "lurches",
+   1.68,
+   2.24
+  ],
+  [
+   "more",
+   2.36,
+   2.48
+  ],
+  [
+   "than",
+   2.56,
+   2.64
+  ],
+  [
+   "it",
+   2.72,
+   2.8
+  ],
+  [
+   "had",
+   2.96,
+   3.12
+  ],
+  [
+   "all",
+   3.24,
+   3.36
+  ],
+  [
+   "year.",
+   3.52,
+   4.16
+  ]
+ ],
+ "hash": "aa1ea12331bc"
+}

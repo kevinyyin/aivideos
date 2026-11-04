@@ -1,0 +1,26 @@
+{
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {"speed": 1.1, "stability": 0.4, "similarity": 0.75, "style": 0.2},
+ "lines": [
+  {"id": "n01_hook", "text": "In 1925, a con man sold the Eiffel Tower, all seven thousand tons of it, to a scrap dealer."},
+  {"id": "n02_world", "text": "You see, the tower was rusting, and lots of Parisians wanted it gone."},
+  {"id": "n03_hotel", "text": "So Victor Lustig faked government letterhead and invited Paris's top scrap dealers to a fancy hotel."},
+  {"id": "n04_ministry", "text": "He posed as an official from the Ministry of Posts and Telegraphs."},
+  {"id": "n05_secret", "text": "The tower was being sold for scrap, he said. Top secret."},
+  {"id": "n06_limo", "text": "Then he gave them a limousine tour, hunting for the hungriest buyer."},
+  {"id": "n07_poisson", "text": "He picked André Poisson, new in town and desperate to be a big shot."},
+  {"id": "n08_wife", "text": "Even Poisson's wife thought it smelled fishy."},
+  {"id": "n09_paid", "text": "Yet Poisson paid, and Lustig fled to Austria with seventy thousand francs."},
+  {"id": "n10_shame", "text": "And Poisson was too embarrassed to call the police."},
+  {"id": "n11_again", "text": "So Lustig came back to sell the tower again."},
+  {"id": "n12_america", "text": "This time, a dealer called the police, and Lustig fled to America."},
+  {"id": "n13_question", "text": "So why did Poisson ignore his own wife?"},
+  {"id": "n14_reveal", "text": "You see, Lustig asked him for a bribe.", "reveal": true},
+  {"id": "n15_salary", "text": "He sighed that officials earn next to nothing, so Poisson slipped him cash."},
+  {"id": "n16_dare", "text": "A fake would never dare. So Poisson knew he was real."},
+  {"id": "n17_bouncer", "text": "It's like a bouncer asking twenty bucks to skip the line. You never doubt he works there."},
+  {"id": "n18_alcatraz", "text": "Eleven years later, he was on Alcatraz. He died a prisoner in 1947."},
+  {"id": "n19_payoff", "text": "The man who sold the Eiffel Tower? His death certificate lists his job as \"apprentice salesman and counterfeiter.\""}
+ ]
+}

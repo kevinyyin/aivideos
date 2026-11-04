@@ -1,0 +1,90 @@
+{
+ "text": "So they drill under the high side, pulling dirt out a bucket at a time.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "So",
+   0.0,
+   0.24
+  ],
+  [
+   "they",
+   0.32,
+   0.4
+  ],
+  [
+   "drill",
+   0.48,
+   0.72
+  ],
+  [
+   "under",
+   0.8,
+   1.04
+  ],
+  [
+   "the",
+   1.12,
+   1.2
+  ],
+  [
+   "high",
+   1.32,
+   1.44
+  ],
+  [
+   "side,",
+   1.52,
+   2.16
+  ],
+  [
+   "pulling",
+   2.24,
+   2.56
+  ],
+  [
+   "dirt",
+   2.64,
+   2.8
+  ],
+  [
+   "out",
+   2.88,
+   3.12
+  ],
+  [
+   "a",
+   3.24,
+   3.36
+  ],
+  [
+   "bucket",
+   3.52,
+   3.68
+  ],
+  [
+   "at",
+   3.72,
+   3.76
+  ],
+  [
+   "a",
+   3.84,
+   3.92
+  ],
+  [
+   "time.",
+   4.12,
+   4.56
+  ]
+ ],
+ "hash": "dbb963a1c470"
+}

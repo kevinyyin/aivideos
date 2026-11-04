@@ -1,0 +1,330 @@
+{
+ "tone": "funny",
+ "look": {
+  "exposure": 1.05,
+  "fill": 0.5,
+  "vignette": 0.22,
+  "bloom": 0.22,
+  "bloomThreshold": 0.92
+ },
+ "fps": 30,
+ "duration": 65.6,
+ "title": {
+  "html": "What if Tralalero Tralala didn't <em>exist</em>?",
+  "in": -0.4,
+  "out": 3.4
+ },
+ "subs": [
+  [
+   3.5,
+   5.3,
+   "Second 0. Tralalero Tralala is erased."
+  ],
+  [
+   5.45,
+   7.85,
+   "He was patient zero of Italian brainrot."
+  ],
+  [
+   8.1,
+   10.6,
+   "+1 second. Everything that came after him…"
+  ],
+  [
+   10.8,
+   13.2,
+   "…goes with him. Domino by domino."
+  ],
+  [
+   13.45,
+   16.2,
+   "+1 minute. Bombardiro Crocodilo is just a plane."
+  ],
+  [
+   16.4,
+   18.8,
+   "And one very confused crocodile."
+  ],
+  [
+   19.1,
+   21.4,
+   "+1 hour. Sneakers were sold in threes."
+  ],
+  [
+   21.7,
+   24.2,
+   "Nobody needs a third shoe anymore."
+  ],
+  [
+   24.45,
+   26.95,
+   "+1 day. The fan club still poses."
+  ],
+  [
+   27.1,
+   29.6,
+   "It needed the third leg."
+  ],
+  [
+   29.85,
+   32.85,
+   "+1 week. The internet tries to make a new one."
+  ],
+  [
+   32.95,
+   35.6,
+   "It gets worse."
+  ],
+  [
+   35.85,
+   38.3,
+   "+1 month. His sneakers are still there."
+  ],
+  [
+   38.45,
+   40.6,
+   "So they go looking for him."
+  ],
+  [
+   40.9,
+   43.2,
+   "+2 months. They try a real shark."
+  ],
+  [
+   43.5,
+   45.65,
+   "Sharks have no legs. Never had."
+  ],
+  [
+   45.9,
+   48.45,
+   "+11 months. They keep walking."
+  ],
+  [
+   48.7,
+   51.0,
+   "+1 year. Low tide in Australia."
+  ],
+  [
+   51.25,
+   53.4,
+   "Some sharks really do walk."
+  ],
+  [
+   53.55,
+   55.55,
+   "Nine kinds. One wears sneakers now."
+  ],
+  [
+   55.75,
+   58.0,
+   "He doesn't know he's a meme."
+  ],
+  [
+   58.3,
+   60.6,
+   "…yet."
+  ]
+ ],
+ "hudLabel": "BRAINROT CHARACTERS LEFT",
+ "hud": [
+  {
+   "t0": 0.0,
+   "t1": 8.0,
+   "from": 4812,
+   "to": 4811,
+   "dec": 0,
+   "time": "SECOND 0",
+   "age": "FIRST VIRAL VIDEO · JAN 13, 2025 · 7 M PLAYS",
+   "r0": 4.6,
+   "r1": 5.0
+  },
+  {
+   "t0": 8.0,
+   "t1": 13.4,
+   "from": 4811,
+   "to": 1206,
+   "dec": 0,
+   "time": "+1 SECOND",
+   "age": "HE CAME FIRST · THE REST CAME AFTER",
+   "r0": 8.6,
+   "r1": 11.8
+  },
+  {
+   "t0": 13.4,
+   "t1": 19.0,
+   "from": 1206,
+   "to": 1205,
+   "dec": 0,
+   "time": "+1 MINUTE",
+   "age": "BOMBARDIRO CROCODILO · SINCE FEB 2025",
+   "r0": 14.15,
+   "r1": 14.5
+  },
+  {
+   "t0": 19.0,
+   "t1": 24.4,
+   "from": 1205,
+   "to": 311,
+   "dec": 0,
+   "time": "+1 HOUR",
+   "age": "SHOES MADE IN 2024 · 23.9 BILLION PAIRS",
+   "r0": 19.6,
+   "r1": 23.6
+  },
+  {
+   "t0": 24.4,
+   "t1": 29.8,
+   "from": 311,
+   "to": 12,
+   "dec": 0,
+   "time": "+1 DAY",
+   "age": "THIRD LEGS LEFT ON EARTH · 0",
+   "r0": 27.25,
+   "r1": 28.2
+  },
+  {
+   "t0": 29.8,
+   "t1": 30.5,
+   "from": 12,
+   "to": 0,
+   "dec": 0,
+   "time": "+1 WEEK",
+   "age": "NEW ONES THAT WORKED · 0",
+   "r0": 29.85,
+   "r1": 30.35
+  },
+  {
+   "t0": 30.5,
+   "t1": 31.35,
+   "from": 0,
+   "to": 1,
+   "dec": 0,
+   "time": "+1 WEEK",
+   "age": "NEW ONES THAT WORKED · 0",
+   "r0": 30.55,
+   "r1": 30.75
+  },
+  {
+   "t0": 31.35,
+   "t1": 31.8,
+   "from": 1,
+   "to": 0,
+   "dec": 0,
+   "time": "+1 WEEK",
+   "age": "NEW ONES THAT WORKED · 0",
+   "r0": 31.4,
+   "r1": 31.6
+  },
+  {
+   "t0": 31.8,
+   "t1": 32.6,
+   "from": 0,
+   "to": 1,
+   "dec": 0,
+   "time": "+1 WEEK",
+   "age": "NEW ONES THAT WORKED · 0",
+   "r0": 31.85,
+   "r1": 32.05
+  },
+  {
+   "t0": 32.6,
+   "t1": 33.3,
+   "from": 1,
+   "to": 0,
+   "dec": 0,
+   "time": "+1 WEEK",
+   "age": "NEW ONES THAT WORKED · 0",
+   "r0": 32.65,
+   "r1": 32.85
+  },
+  {
+   "t0": 33.3,
+   "t1": 34.65,
+   "from": 0,
+   "to": 1,
+   "dec": 0,
+   "time": "+1 WEEK",
+   "age": "NEW ONES THAT WORKED · 0",
+   "r0": 33.35,
+   "r1": 33.55
+  },
+  {
+   "t0": 34.65,
+   "t1": 35.8,
+   "from": 1,
+   "to": 0,
+   "dec": 0,
+   "time": "+1 WEEK",
+   "age": "NEW ONES THAT WORKED · 0",
+   "r0": 34.7,
+   "r1": 34.9
+  },
+  {
+   "t0": 35.8,
+   "t1": 40.8,
+   "from": 0,
+   "to": 0,
+   "dec": 0,
+   "time": "+1 MONTH",
+   "age": "SNEAKERS STILL LOOKING FOR HIM · 3"
+  },
+  {
+   "t0": 40.8,
+   "t1": 45.8,
+   "from": 0,
+   "to": 0,
+   "dec": 0,
+   "time": "+2 MONTHS",
+   "age": "SHARKS ~450 M YEARS · TREES ~385 M YEARS"
+  },
+  {
+   "t0": 45.8,
+   "t1": 48.6,
+   "from": 0,
+   "to": 0,
+   "dec": 0,
+   "time": "+11 MONTHS",
+   "age": "ITALY → AUSTRALIA · ~15,000 km ON FOOT"
+  },
+  {
+   "t0": 48.6,
+   "t1": 55.6,
+   "from": 0,
+   "to": 1,
+   "dec": 0,
+   "time": "+1 YEAR · LOW TIDE",
+   "age": "WALKING SHARK SPECIES · 9 (REAL)",
+   "r0": 53.55,
+   "r1": 53.85,
+   "ageGoldAt": 53.6
+  },
+  {
+   "t0": 55.6,
+   "t1": 65.6,
+   "from": 1,
+   "to": 1,
+   "dec": 0,
+   "time": "+1 YEAR · LOW TIDE",
+   "age": "SHARK SPECIES 530+ · IN SNEAKERS · 1"
+  }
+ ],
+ "end": {
+  "in": 61.4,
+  "html": "Was the internet better <em>without</em> him?",
+  "small": "TELL US BELOW"
+ },
+ "dips": [],
+ "finalFade": [
+  60.8,
+  61.4
+ ],
+ "debugView": {
+  "center": [
+   0,
+   0,
+   2
+  ],
+  "height": 14
+ }
+}

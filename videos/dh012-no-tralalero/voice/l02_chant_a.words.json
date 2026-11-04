@@ -1,0 +1,25 @@
+{
+ "text": "TRALALERO TRALALA!",
+ "voice": "iP95p4xoKVk53GoZ742B",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.3,
+  "similarity_boost": 0.75,
+  "style": 0.6,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "TRALALERO",
+   0.0,
+   0.8
+  ],
+  [
+   "TRALALA!",
+   0.96,
+   2.0
+  ]
+ ],
+ "hash": "965dfe321937"
+}

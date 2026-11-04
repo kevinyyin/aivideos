@@ -1,0 +1,29 @@
+{
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {"speed": 1.1, "stability": 0.4, "similarity": 0.75, "style": 0.2},
+ "lines": [
+  {"id": "n01_hook", "text": "In 1932, an army major took two machine guns into Australia's wheat fields to fight a bird."},
+  {"id": "n02_world", "text": "You see, twenty thousand emus were eating the farmers' wheat."},
+  {"id": "n03_minister", "text": "The defence minister said they'd make good target practice."},
+  {"id": "n04_camera", "text": "They even brought a newsreel cameraman."},
+  {"id": "n05_army", "text": "So Major Meredith rolls in with two soldiers and ten thousand bullets."},
+  {"id": "n06_split", "text": "On day one, farmers herd the flock toward the guns, and it just splits up."},
+  {"id": "n07_dam", "text": "Two days later, a thousand emus walk straight toward the guns."},
+  {"id": "n08_wait", "text": "He waits until they're close."},
+  {"id": "n09_jam", "text": "Then the gun jams."},
+  {"id": "n10_truck", "text": "So he bolts a gun onto a truck and chases them."},
+  {"id": "n11_chase", "text": "But the truck can't keep up, and the ride is too bumpy to aim."},
+  {"id": "n12_retreat", "text": "After six days and twenty-five hundred bullets, the army pulls out."},
+  {"id": "n13_laugh", "text": "Back home, people are laughing, and the papers call it the Emu War."},
+  {"id": "n14_medals", "text": "In Parliament, one member mockingly asks if the soldiers will get medals."},
+  {"id": "n15_question", "text": "So how do you lose a war to a bird?"},
+  {"id": "n16_reveal", "text": "You see, a machine gun is built for an army standing in a line.", "reveal": true},
+  {"id": "n17_nolines", "text": "Emus don't do lines."},
+  {"id": "n18_lookout", "text": "They split into tiny groups, and every group has one tall bird on lookout."},
+  {"id": "n19_bowling", "text": "It's like bowling, if the pins could run."},
+  {"id": "n20_second", "text": "Round two burns almost ten thousand bullets, and the emus keep eating."},
+  {"id": "n21_arms", "text": "Today, the emu is on Australia's coat of arms."},
+  {"id": "n22_undefeated", "text": "Undefeated."}
+ ]
+}

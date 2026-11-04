@@ -1,0 +1,80 @@
+{
+ "text": "Then they stop on purpose after half a degree, too little to notice.",
+ "voice": "nPczCjzI2devNBz1zQrb",
+ "model": "eleven_v4",
+ "settings": {
+  "stability": 0.4,
+  "similarity_boost": 0.75,
+  "style": 0.2,
+  "use_speaker_boost": true,
+  "speed": 1.1
+ },
+ "words": [
+  [
+   "Then",
+   0.0,
+   0.24
+  ],
+  [
+   "they",
+   0.32,
+   0.4
+  ],
+  [
+   "stop",
+   0.48,
+   0.72
+  ],
+  [
+   "on",
+   0.8,
+   0.88
+  ],
+  [
+   "purpose",
+   1.04,
+   1.52
+  ],
+  [
+   "after",
+   1.6,
+   1.84
+  ],
+  [
+   "half",
+   1.92,
+   2.16
+  ],
+  [
+   "a",
+   2.187,
+   2.213
+  ],
+  [
+   "degree,",
+   2.24,
+   3.12
+  ],
+  [
+   "too",
+   3.24,
+   3.36
+  ],
+  [
+   "little",
+   3.44,
+   3.6
+  ],
+  [
+   "to",
+   3.68,
+   3.76
+  ],
+  [
+   "notice.",
+   3.84,
+   4.56
+  ]
+ ],
+ "hash": "9d2dc34a6a07"
+}
